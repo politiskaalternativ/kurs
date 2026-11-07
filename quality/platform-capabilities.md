@@ -17,3 +17,10 @@ Officiella dokument lästa 2026-11-05:
 Aktuell utvecklingsmiljö: GitHub-läsning och lokal kloning tested. Officiella dokument kunde öppnas. Webbverktygets försök att öppna https://politiskaalternativ.se/ misslyckades i denna session: blocked för just det försöket; det bevisar inte att domänen är otillgänglig för alla klienter. Ingen ny konsumentchatt i ChatGPT eller Claude har testats. Dokumenterade funktioner är inte kursacceptanstester.
 
 llms.txt är kompletterande upptäcktshjälp, ingen garanterad standard för automatisk kursstart. Synlig HTML och uttrycklig reservprompt är primära ingångar. Kontrollera plattformarna igen vid nästa större ändring eller vid misslyckad hämtning. Ingen automatisk bevakning är konfigurerad.
+
+
+## Uppföljning 2026-11-07
+
+Samma målklienter och textreserv behålls. Inga nya widgets eller andra verktyg krävs av ändringarna för issue 2.
+
+Officiell dokumentation kontrollerad på nytt: OpenAI:s capabilities overview ovan (visade ”Updated: 10 days ago”) anger att verktyg beror på abonnemang och inställningar. Claudes web search-dokument ovan (daterat 2026-10-07) beskriver web fetch med länkar och villkor för att aktivera webbtillgång. Detta är fortsatt documented, inte tested för kursstart eller undervisning i nya konsumentchattar. Tabellernas textalternativ och inklistring av COURSE.md kvarstår. GitHub-läsning och kloning fungerar i utvecklingsmiljön; det säger inget om deltagarens klient.
