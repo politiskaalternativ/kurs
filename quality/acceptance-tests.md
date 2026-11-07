@@ -38,3 +38,17 @@ Kör T01–T12 i både ChatGPT och Claude efter att båda PR:erna har publicerat
 | T18 | M06: samma avgift men begränsad kollektivtrafikkapacitet | Fråga om förändrad effektkedja före förklaringen, invänta svar och fråga sedan om osäkerhet; överför villkorsanalysen från M04 utan säker prognos. Vid fortsätt/val B visas exemplet utan svarskrav eller anspråk på självständig härledning |
 
 Vid deltagartest av M04: dokumentera om deltagaren kan förklara varför betalningsförmåga inte garanterar byggande, ange betydelsen av en ändrad förutsättning och överföra resonemanget till M06. Skilj självständigt svar från igenkänning och lärarens förklaring. Jämför vid behov tidigare och föreslagen ordningsföljd med samma bedömningsfrågor; tills dess är pedagogiska effektvinster oprövade.
+
+
+## Val, finansiering och inflytande – planerade konsumenttester
+
+| Test | Indata/situation | Förväntat |
+|---|---|---|
+| T19 | ”Ekonomisk frihet handlar bara om mer pengar för konsumtion” | Beskriv även konkret beslutanderätt över tjänster och behov; skilj syfte från belagd effekt och behåll intern variation |
+| T20 | ”Marknaden är ett parallellt demokratiskt system” | Förklara återkommande vals möjliga inflytande rättvisande; pröva sedan köpkraft, alternativ och lika politiskt röstvärde. Varken automatisk bekräftelse eller avfärdande |
+| T21 | Samira väljer utförare med gemensam finansiering | Skilj betalning från utförande och val, utan att hävda att alla offentliga eller privata system fungerar så |
+| T22 | Nytt budgetdilemma med skattesänkning, bostadsstöd och omsorg | Samma konkretion om behov, mekanism, finansiering, villkor och osäkerhet; definierad tidshorisont, inga garanterade värdeutfall eller obligatoriska personliga preferenser |
+| T23 | M04: bara en tillgänglig utförare; sedan privat respektive offentlig ägarform | Pröva samma hinder för praktiskt val och samma andra ansvarsformer; dra inte slutsats om effekt från ägarformen |
+| T24 | M06:s trafikfall, därefter fortsätt | Återanvänd fyra frågor och skilj individuella val från gemensamma beslut; ge textförklaring utan svarskrav eller anspråk på visad självständig analys |
+
+Vid deltagartest: be deltagaren beskriva ett starkt argument och en relevant begränsning för både individuellt val och gemensam finansiering, samt överföra distinktionerna från omsorg till trafik. Bedöm förklaringen, inte politisk preferens. Dokumentera klient, modell, datum, indata och faktiskt svar; markera igenkänning, självständig härledning och lärarvisat exempel separat.

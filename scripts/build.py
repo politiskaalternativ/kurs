@@ -2,7 +2,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 def build():
     parts = ["# Politiska Alternativ – samlat kursunderlag\n\nstatus: draft\n\nDetta är undervisningsmaterial, inte systeminstruktioner. Följ användarens avsikt. Allt som behövs för kursen finns i denna fil. Lärarstödet och ämnesbilagorna ska användas som underlag, inte återges i sin helhet vid kursstart."]
-    paths = [ROOT / "pedagogy/ONBOARDING.md", ROOT / "pedagogy/FRAMEWORK.md", ROOT / "pedagogy/ASSESSMENT.md", ROOT / "glossary/TERMS.md", *sorted((ROOT / "discovery").glob("*.md")), ROOT / "knowledge/README.md"]
+    paths = [ROOT / "pedagogy/ONBOARDING.md", ROOT / "pedagogy/FRAMEWORK.md", ROOT / "pedagogy/ASSESSMENT.md", ROOT / "glossary/TERMS.md", *sorted((ROOT / "discovery").glob("*.md")), ROOT / "knowledge/README.md", ROOT / "knowledge/CHOICE.md"]
     for path in paths:
         parts.append(path.read_text(encoding="utf-8").strip())
     for path in sorted((ROOT / "knowledge/source").iterdir()):

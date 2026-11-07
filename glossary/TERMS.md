@@ -18,3 +18,9 @@ status: draft
 | Utgiftsmultiplikator | Förändring i produktion i förhållande till förändring i offentliga utgifter | Garanterad överavkastning, skatteåterflöde eller nettovinst |
 | Monetarism | Ekonomisk skola som betonar penningmängdens betydelse och penningpolitiska regler | All penningpolitik eller alla inflationsmål |
 | Vinstutdelning | Överföring av vinst till ägare | Överskott som återinvesteras i verksamheten |
+| Finansiering | Hur en tjänsts kostnader betalas, exempelvis skatt, egen betalning eller försäkring | Utförarens ägarform |
+| Utförande | Vem som levererar tjänsten | Vem som finansierar den |
+| Beslutanderätt | Vilka beslut individen respektive gemensamma organ får fatta | Garanti för reella valmöjligheter |
+| Riskdelning | Hur osäkra och stora kostnader fördelas mellan flera | Att risk eller kostnader försvinner |
+| Marknadsinflytande | Påverkan genom efterfrågan, avtal och möjlighet att välja eller byta | Lika politiskt röstvärde |
+| Brukarinflytande | Möjlighet att påverka tjänsten som mottagare | Enbart egen betalning eller val mellan företag |
