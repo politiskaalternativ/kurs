@@ -8,3 +8,7 @@
 - [ ] Publicera startsidans kurserbjudande via separat webb-PR.
 - [ ] Genomför dokumenterade kursstarter och genomgångar i ChatGPT och Claude.
 - [ ] Testa mobil läsbarhet, svarskvalitet och återkallning med deltagare.
+
+- [x] Rätta issue 2:s multiplikatorförklaring, motargument, textkodning och monetarismlucka; samordna progression och bedömning.
+- [ ] Granska och deltagartesta M04:s tidigarelagda kontrastövning samt överföringen till M06 (T13–T18).
+- [ ] Slutför symmetrisk sak- och språkgranskning av bilagornas historiska och empiriska generaliseringar; se quality/issue-2-review.md.

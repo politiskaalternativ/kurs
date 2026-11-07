@@ -1,6 +1,6 @@
 # Politiska Alternativ – förstå, jämför och analysera
 
-En svensk AI-ledd introduktion till politiska ideologier, ekonomi, strategier och självständig analys. Status: **draft**.
+En svensk AI-ledd introduktion där du lär känna politiska ideologier, ekonomi och strategier genom att använda dem för självständig analys. Status: **draft**.
 
 Vill du gå kursen? Be din AI-assistent läsa [hela kursunderlaget](COURSE.md) och börja med introduktionen. Du behöver ingen installerad skill.
 
