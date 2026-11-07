@@ -1,6 +1,6 @@
 {
   "meta": {
-    "intro": "Politiska konflikter framställs ofta som en kamp mellan ont och gott, kunniga och okunniga. Men de flesta bottnar i något enklare: olika utgångspunkter som leder till olika slutsatser från samma fakta. Det här verktyget låter dig utforska hur olika ideologier resonerar kring ett och samma problem, och vad de invänder mot varandra. Axeln är ett navigeringsverktyg, inte ett påstående om vem som har rätt."
+    "intro": "Politiska konflikter framställs ofta som en kamp mellan ont och gott, kunniga och okunniga. Men de flesta bottnar i något enklare: olika utgångspunkter som leder till olika slutsatser från samma fakta. Det här verktyget låter dig utforska hur olika ideologier resonerar kring ett och samma problem, och vad de invänder mot varandra. Axeln är ett navigeringsverktyg, inte ett påstående om vem som har rätt. Finansiering, utförande, beslutanderätt och riskdelning är separata frågor; axlarna är schematiska och avgör inte hur dessa kombineras. Perspektivens förslag och invändningar är argument att pröva, inte fastställda effekter."
   },
   "ideologies": [
     {
@@ -68,7 +68,7 @@
         {
           "ideologyId": "socialdemokrati",
           "axisPos": 25,
-          "solution": "En stark skattefinansierad välfärd kombineras med pragmatiska inslag av privata utförare. Grundprincipen är universell tillgång – alla betalar, alla får. Omfördelning är nödvändig för social sammanhållning.",
+          "solution": "Gemensam skattefinansiering motiveras med tillgång efter behov och delade kostnader även för personer med små egna resurser. Offentlig och privat drift kan kombineras i olika former. Politiskt ansvar, brukarinflytande och eventuella utförarval behöver utformas så att både gemensam tillgång och individuella önskemål kan hanteras; finansieringen garanterar inte ensam kvalitet.",
           "counterargs": [
             {
               "fromId": "nyliberalism",
@@ -113,7 +113,7 @@
         {
           "ideologyId": "nyliberalism",
           "axisPos": 80,
-          "solution": "Konkurrens och valfrihet driver kvalitet. Skattefinansiering kan bestå men utförandet bör öppnas för privata aktörer. På sikt bör individen ges större ansvar för sin egen välfärd via sparande och försäkring.",
+          "solution": "Förespråkare framhåller konkurrens och individuella val som vägar till kvalitet och inflytande över vård och omsorg. Skattefinansiering kan kombineras med val av utförare; andra förslag ger större utrymme för egen betalning, sparande eller försäkring. Tanken är att individen ska kunna påverka hur behoven tillgodoses, inte bara få mer konsumtionsutrymme. Förslaget behöver ange vad som finansieras gemensamt och hur stora behov hanteras.",
           "counterargs": [
             {
               "fromId": "socialdemokrati",
@@ -128,11 +128,11 @@
         {
           "ideologyId": "libertarianism",
           "axisPos": 96,
-          "solution": "Tvångsfinansierad välfärd kränker individens frihet. Frivillig välgörenhet, ömsesidiga försäkringar och marknaden kan fylla funktionerna. Staten bör begränsas till ett absolut minimum.",
+          "solution": "Tvångsfinansiering ifrågasätts utifrån individens rätt att förfoga över sina resurser. Frivilliga köp, ömsesidiga försäkringar, föreningar och välgörenhet föreslås som sätt att finansiera hjälp och ge inflytande över dess innehåll. Hur personer utan tillräckliga resurser eller med stora behov får tillgång är en central prövningsfråga; lösningarnas effekter följer inte av frihetsprincipen ensam.",
           "counterargs": [
             {
               "fromId": "socialdemokrati",
-              "text": "Frivilliga system fungerar inte – de som behöver mest skydd faller igenom."
+              "text": "Hur säkerställs tillgång för personer som saknar betalningsförmåga eller inte omfattas av ett tillräckligt försäkringsskydd? Frivillig finansiering behöver visa hur även stora behov kan mötas."
             },
             {
               "fromId": "konservatism",

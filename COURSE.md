@@ -62,6 +62,14 @@ För varje perspektiv som jämförs: gör målet begripligt, förklara den före
 
 Skilj perspektivets anspråk från kursens sakförklaring. ”Förespråkare menar” anger avsändare men verifierar inte ett empiriskt påstående. Saknas kontrollerat stöd, säg vad som är osäkert och vilket underlag som behövs; använd inte en kategorisk bilageformulering som facit. Fördjupa ett begrepp i taget utifrån dess analysfråga och återvänd sedan till scenen. Undervisningen är självständig med COURSE.md och kräver ingen extern källa för att fortsätta.
 
+## Balanserade beskrivningar av val och välfärd
+
+Använd knowledge/CHOICE.md som gemensamt begreppsstöd. M02 introducerar samma konkreta behov och skiljer betalning från val; M03 visar kartornas begränsningar; M04 prövar villkoren för verkliga alternativ; M05 jämför marknadsinflytande och politiskt ansvarsutkrävande; M06 överför detta till trafikfallet. L01–L06 behålls. Nytt innehåll doseras i korta steg, med frivillig förutsägelse före förklaring och textalternativ till varje tabell.
+
+När nya dilemman skapas: beskriv varje åtgärds syfte, tänkta mekanism, förutsättningar och osäkerhet på jämförbar detaljnivå. Ställ inte ett oklart ”mer pengar” mot konkret vård eller trygghet. Beskriv även hur egna resurser, försäkring och utförarval kan avses tillgodose samma behov, och hur kollektiv finansiering kan avses ge tillgång och riskdelning. Skilj avsikter från utfall för samtliga. Blanda inte kompletterande köp med ersättning av grundfinansiering. Definiera budgetens tidshorisont om belopp införs. Tillskriv inte alla liberaler samma finansieringsmodell eller alla offentliga lösningar samma valmöjligheter.
+
+Uttrycket ”marknaden som parallell demokrati” behandlas som ett argument och en prövbar liknelse om inflytande, inte som ett fastslaget likhetstecken mellan köp och lika politisk rösträtt. Förklara först liknelsens bärande idé rättvisande och pröva sedan dess gränser. Gör motsvarande prövning av påståenden om att politiska beslut automatiskt ger reellt brukarinflytande. Be inte deltagaren välja politisk identitet; personliga prioriteringar är frivilliga och kan ersättas med analys av fiktiva personer.
+
 ---
 
 # Bedömning
@@ -71,6 +79,8 @@ status: draft
 Skilj frånvaro av svar, igenkänning, självständig återkallning och tillämpning i nytt fall. Registrera bara belägg som faktiskt finns i samtalet. Inga godkäntgränser eller certifikat.
 
 För M06 bedöms sex aspekter: värdering kontra fakta, två rättvisande perspektiv, relevant kartbegränsning, villkorad effektkedja, strategi kontra ideologi och preciserad osäkerhet. Varje aspekt får ”visat”, ”delvis visat” eller ”inte observerat” med en konkret motivering. En politisk preferens ger varken plus eller minus. För effektkedjan, observera även om deltagaren kan ändra en förutsättning, beskriva en möjlig följd och behålla en relevant osäkerhet. Skilj detta från att återge lärarens exempel. Det konkretiserar befintliga mål, utan nya godkäntkrav. Ge en styrka och ett nästa utvecklingssteg. Om deltagaren väljer fortsätt, visa ett genomarbetat exempel och säg att självständig tillämpning inte har prövats.
+
+Inom befintliga aspekter i M06: observera om deltagaren skiljer finansiering från utförande och individuella val från politiskt röstvärde. Ett rättvisande perspektiv kan förklara både marknadsvalets tänkta inflytande och kollektiv finansierings tänkta riskspridning utan att acceptera något som garanti. Bedöm inte om deltagaren föredrar skatt, egen betalning eller försäkring. Använd ”inte observerat” om läraren visat exemplet utan ett självständigt svar; inga nya godkäntkrav införs.
 
 ---
 
@@ -94,6 +104,12 @@ status: draft
 | Utgiftsmultiplikator | Förändring i produktion i förhållande till förändring i offentliga utgifter | Garanterad överavkastning, skatteåterflöde eller nettovinst |
 | Monetarism | Ekonomisk skola som betonar penningmängdens betydelse och penningpolitiska regler | All penningpolitik eller alla inflationsmål |
 | Vinstutdelning | Överföring av vinst till ägare | Överskott som återinvesteras i verksamheten |
+| Finansiering | Hur en tjänsts kostnader betalas, exempelvis skatt, egen betalning eller försäkring | Utförarens ägarform |
+| Utförande | Vem som levererar tjänsten | Vem som finansierar den |
+| Beslutanderätt | Vilka beslut individen respektive gemensamma organ får fatta | Garanti för reella valmöjligheter |
+| Riskdelning | Hur osäkra och stora kostnader fördelas mellan flera | Att risk eller kostnader försvinner |
+| Marknadsinflytande | Påverkan genom efterfrågan, avtal och möjlighet att välja eller byta | Lika politiskt röstvärde |
+| Brukarinflytande | Möjlighet att påverka tjänsten som mottagare | Enbart egen betalning eller val mellan företag |
 
 ---
 
@@ -126,7 +142,7 @@ Textalternativ: skilj mellan vad vi vill, vad vi tror händer och hur åtgärden
 
 ## Tillämpning och övergång
 
-Be frivilligt om ett exempel på ett annat medel till samma mål. Förklara annars: byggstöd och regelförenkling kan båda syfta till fler bostäder men ha olika kostnader och villkor. Nästa del undersöker varför människor prioriterar olika medel.
+Be frivilligt om ett exempel på ett annat medel till samma mål. Förklara annars: byggstöd och regelförenkling kan båda syfta till fler bostäder men ha olika kostnader och villkor. Nästa del undersöker varför människor prioriterar olika medel. Samma behov kan mötas genom gemensamma beslut och individuella val; vi ska undersöka både tänkt nytta och villkor, inte låta ett perspektiv ensam stå för omsorg eller frihet.
 
 ---
 
@@ -145,18 +161,24 @@ Vill du först undersöka A frihet och jämlika möjligheter eller B förändrin
 
 ## Förklaring och återkoppling
 
-Klassisk liberalism betonar individuell frihet, äganderätt och begränsad stat. Socialliberalism betonar också frihet men framhåller reella möjligheter, exempelvis utbildning och trygghet. Socialdemokrati betonar demokratisk reform, välfärd och omfördelning inom en blandekonomi. Konservatism betonar institutionell erfarenhet, kontinuitet och varsam förändring. Ingendera ger ett automatiskt svar på varje bostadsförslag.
+Klassisk liberalism betonar individuell frihet, äganderätt och begränsad stat. Ett argument är att människor genom egna resurser, avtal och val av tjänster ska kunna påverka hur deras behov tillgodoses, exempelvis omsorgens inriktning. Socialliberalism betonar också frihet men framhåller reella möjligheter, exempelvis utbildning och trygghet. Socialdemokrati betonar demokratisk reform, välfärd och omfördelning inom en blandekonomi. Konservatism betonar institutionell erfarenhet, kontinuitet och varsam förändring. Ingendera ger ett automatiskt svar på varje bostadsförslag.
 
 ## Jämförelse
 
 | Perspektiv | Fråga till förslaget | Intern spänning |
 |---|---|---|
-| Klassisk liberalism | Skyddas valfrihet och ägande? | Formell frihet och faktiska resurser |
+| Klassisk liberalism | Kan personen styra sina resurser och välja lösning för sina behov? | Självbestämmande, resurser och beroende av utförare |
 | Socialliberalism | Får fler verkliga möjligheter? | Stödjande stat och individuell autonomi |
 | Socialdemokrati | Breddas trygghet och jämlikhet? | Fördelning, finansiering och incitament |
 | Konservatism | Vad riskerar att gå förlorat? | Kontinuitet och nödvändig reform |
 
 Textalternativ: läs varje rad som mål, granskningsfråga och spänning. Visa två rader åt gången vid behov.
+
+## Upptäck skillnaden mellan betalning och val
+
+Lindviks bostadsdiskussion väcker en ny fråga: Samira behöver ett boende med omsorg och vill påverka sin vardag. I en hypotetisk modell betalas omsorgen gemensamt men hon väljer mellan godkända utförare. Fråga en sak: ”Betyder eget val av utförare att Samira betalar hela omsorgen själv?” Vänta på svar eller fortsätt.
+
+Återkoppla: nej, finansiering och val är olika frågor. I en annan modell används mer egna resurser eller frivillig försäkring för att påverka innehåll och utförare. Det senare är också ett argument om omsorg och självbestämmande, men kräver prövning av tillgång och skydd vid stora behov. Förklara sedan kollektiv finansierings argument om behov och delade kostnader med samma omsorg om mekanismen. Ingen modell garanterar utfallet. Fördjupa vid behov med knowledge/CHOICE.md i det samlade underlaget; visa inte alla modeller på en gång.
 
 ## Tillämpning och övergång
 
@@ -183,7 +205,7 @@ Räcker ekonomisk höger–vänster för slutsatsen? A ja eller B nej? Förklara
 
 ## Förklaring och återkoppling
 
-B: ekonomi, frihet och kultur är skilda analytiska dimensioner. I webbprojektets treaxliga ramverk går ekonomi från statlig styrning mot marknad, frihet från frihetligt mot auktoritärt och kultur från progressivt mot konservativt. Skalan −10 till +10 är en modell, inte ett validerat personlighetstest. En stark stat som upprätthåller konkurrensregler är inte därmed auktoritär i fråga om yttrandefrihet. Konservativ kulturuppfattning innebär inte automatiskt stöd för tvång.
+B: ekonomi, frihet och kultur är skilda analytiska dimensioner. I webbprojektets treaxliga ramverk går ekonomi från statlig styrning mot marknad, frihet från frihetligt mot auktoritärt och kultur från progressivt mot konservativt. Skalan −10 till +10 är en modell, inte ett validerat personlighetstest. Val av utförare visar inte ensamt vem som betalar eller hur kostnader delas; återkalla Samiras exempel från M02. En stark stat som upprätthåller konkurrensregler är inte därmed auktoritär i fråga om yttrandefrihet. Konservativ kulturuppfattning innebär inte automatiskt stöd för tvång.
 
 ## Jämförelse
 
@@ -246,6 +268,14 @@ Textalternativ: läs varje rad som fråga, begrepp och användning. Fördjupa ek
 
 Vid fördjupning om offentliga utgifter: utgiftsmultiplikatorn relaterar förändrad produktion till ändrade offentliga utgifter. Den behöver inte överstiga ett; större produktion är inte samma sak som självfinansiering eller samhällsekonomisk nettovinst. Använd inte Lindviks hyresstöd som ett beräknat multiplikatorexempel. Kommunen beslutar inte om landets penningpolitik, men monetära förhållanden kan påverka dess förutsättningar.
 
+## Återkomst: vem betalar och vem bestämmer?
+
+Återvänd kort till Samira från M02. Använd knowledge/CHOICE.md och dess fyra frågor, en i taget: finansiering, utförande, beslutanderätt och riskdelning. Jämför samma omsorgsbehov i två modeller i taget, inte ideologier som färdiga paket.
+
+Be först deltagaren förutsäga vad som kan hända med möjligheten att välja om bara antalet tillgängliga utförare ändras från flera till en. Behåll finansiering och övriga antaganden. Efter svar eller fortsätt: möjligheten att byta kan minska, medan klagomål och gemensamt ansvarsutkrävande fortfarande kan finnas. Pröva samma hinder hos offentliga och privata alternativ. Ett nominellt val är inte alltid ett praktiskt val.
+
+Om skattesänkning eller kompletterande försäkring diskuteras, fråga vad som finansieras gemensamt respektive individuellt innan effekter bedöms. Rätt att välja, råd att välja och tillgång till alternativ är skilda frågor. Ingen effektstorlek eller självfinansiering antas.
+
 ## Effektkedja
 
 | Led | Möjlig mekanism | Vad måste undersökas? |
@@ -295,6 +325,14 @@ B. Ideologi handlar här om värden och samhällssyn; strategi om mobilisering, 
 
 Textalternativ: ta en strategi åt gången och ange dess metod och granskningsfråga. Tabellen är analytiska exempel, inte en rangordning.
 
+## Inflytande mellan valen
+
+Återkalla Samiras val av omsorg. Fråga: ”I vilken mening kan möjligheten att välja bort en utförare ge inflytande?” Efter svar eller fortsätt, förklara: den kan signalera önskemål och skapa tryck på utföraren om alternativ och möjlighet att byta finns. Den som förespråkar detta kan likna marknaden vid ett parallellt demokratiskt system, där människor påverkar genom återkommande val.
+
+Pröva sedan liknelsens gräns, en fråga i taget: ”Har alla lika stor möjlighet att påverka genom köp?” Återkoppla efter svar eller fortsätt: köpkraft, information och utbud spelar roll; politisk rösträtt bygger i stället på lika röstvärde för de röstberättigade. Offentligt finansierade brukarval kan förena gemensamma beslut med individuellt val. Köp är inte politiska röster och ersätter inte rättigheter eller prövning av effekter på andra.
+
+Fråga vid behov hur en person som inte kan byta ändå kan få gehör. Klagomål, brukarinflytande, organisering och politiskt ansvarsutkrävande är andra möjliga vägar. Även deras faktiska tillgänglighet behöver undersökas. Förklara styrkor och begränsningar hos båda formerna av inflytande utan att rangordna deltagarens värderingar.
+
 ## Tillämpning och övergång
 
 Återkalla skillnaden mellan statens ekonomiska roll och politisk auktoritet från M03. Be deltagaren ändra den andra gruppens tillvägagångssätt så att opposition, fria medier, rättslig prövning och maktskifte respekteras utan att gruppen måste överge sitt bostadsmål. Att kritisera ett domstolsbeslut är inte i sig att avskaffa rättsstaten. Knyt till M04: även en åtgärd som verkar effektiv behöver granskas utifrån insyn och ansvarsutkrävande. Fortsätt till ett nytt fall där samma analysfrågor återkommer.
@@ -316,7 +354,7 @@ Vill du A pröva en egen kort analys eller B följa ett arbetat exempel? B ger s
 
 ## Tillämpning
 
-Återkalla kort verktygen från M01–M05 när de behövs, utan att först avslöja hela exemplet. Be om en aspekt i taget: skilj ett värde från en hypotes; jämför två perspektiv; bygg en villkorad effektkedja; ange det starkaste motargumentet; föreslå ett belägg som skulle kunna ändra slutsatsen; granska maktutövningen separat. Fråga inte efter röstningsavsikt eller politisk identitet.
+Återkalla kort verktygen från M01–M05 när de behövs, utan att först avslöja hela exemplet. Be om en aspekt i taget: skilj ett värde från en hypotes; jämför två perspektiv; bygg en villkorad effektkedja; ange det starkaste motargumentet; föreslå ett belägg som skulle kunna ändra slutsatsen; granska maktutövningen separat. Knyt även till M02–M05: skilj vem som finansierar kollektivtrafiken från vem som kör den och vilka val resenären faktiskt har. Fråga inte efter röstningsavsikt eller politisk identitet.
 
 Pröva därefter samma teknik som i M04, före det arbetade exemplet: ändra bara kollektivtrafikens kapacitet från god till begränsad, med samma avgift och övriga antaganden. Fråga först: ”Vad kan förändras i effektkedjan?” Vänta på svar och fråga sedan: ”Vad är fortfarande osäkert?” Visa inte följden före deltagarens resonemang. Vid ”fortsätt” eller val B visar läraren exemplet nedan utan ytterligare svarskrav. Bedöm bara det deltagaren själv har visat; återgivning av exemplet visar inte självständig härledning.
 
@@ -328,9 +366,13 @@ En avgift kan ändra reskostnader; vissa kan byta färdsätt om alternativen fun
 
 Expertunderlag kan informera beslut men avgör inte ensamt fördelningsmål. Öppen prövning, insyn och möjlighet till ansvarsutkrävande behöver granskas oavsett politikens inriktning.
 
+## Överföring: val och gemensamma beslut
+
+Be frivilligt om en jämförelse av hur en resenär kan påverka genom att välja trafikföretag respektive genom gemensamma beslut. Fråga en sak i taget och använd annars exemplet: val av företag kan påverka efterfrågan om verkliga alternativ finns; politiska beslut kan påverka finansiering och tillgänglighet även för dem som inte kan köpa eller välja. Varken ett biljettköp eller ett valresultat visar ensamt om utsläppsmålet nås. Röstvärde, köpkraft och konsekvenser för andra ska hållas isär. Jämför med Samiras omsorg utan att kräva samma lösning i båda fallen.
+
 ## Eget analysstöd
 
-Erbjud en generell AI-instruktion som deltagaren frivilligt kan anpassa: ”Analysera förslaget genom att skilja fakta, värderingar och antaganden. Jämför minst två relevanta perspektiv på samma villkor. Ange möjliga effektkedjor och alternativa förlopp. Redovisa osäkerhet, starkaste motargumentet och vilka belägg som saknas. Granska demokratiska villkor separat. Tillskriv mig ingen ideologi.”
+Erbjud en generell AI-instruktion som deltagaren frivilligt kan anpassa: ”Analysera förslaget genom att skilja fakta, värderingar och antaganden. Jämför minst två relevanta perspektiv på samma villkor. Ange möjliga effektkedjor och alternativa förlopp. Skilj finansiering, utförande, beslutanderätt och riskdelning när det är relevant. Redovisa osäkerhet, starkaste motargumentet och vilka belägg som saknas. Granska demokratiska villkor separat. Tillskriv mig ingen ideologi.”
 
 ## Avslutning
 
@@ -342,9 +384,9 @@ Använd pedagogy/ASSESSMENT.md. Sammanfatta vad deltagaren faktiskt har visat oc
 
 status: draft
 
-Kursen baseras på politiskaalternativ/webbplattform, revision fb0182fe5ef16875af61ae13ceb725d701a86d48, hämtad 2026-11-05. Fem datakällor ligger i source/: ideologies.js, economics.js, strategies.js, principles.json och problems.json. ideologies.js, strategies.js och principles.json är oförändrade ögonblicksbilder. economics.js och problems.json är kursanpassade utifrån samma ursprungsrevision: multiplikatorförklaringen och motargumentet om vinstuttag har rättats och monetarism har lagts till. De är därför inte längre identiska med ursprungsfilerna. Dessa är tillgängliga lokalt för utveckling; COURSE.md innehåller också deras fullständiga text för självständig undervisning.
+Kursen baseras på politiskaalternativ/webbplattform, revision fb0182fe5ef16875af61ae13ceb725d701a86d48, hämtad 2026-11-05. Fem datakällor ligger i source/: ideologies.js, economics.js, strategies.js, principles.json och problems.json. strategies.js och principles.json är oförändrade ögonblicksbilder. ideologies.js, economics.js och problems.json är kursanpassade utifrån samma ursprungsrevision: multiplikatorförklaringen och motargumentet om vinstuttag har rättats, monetarism har lagts till och beskrivningar av valfrihet, välfärdsfinansiering och individuellt inflytande har nyanserats. De är därför inte längre identiska med ursprungsfilerna. Dessa är tillgängliga lokalt för utveckling; COURSE.md innehåller också deras fullständiga text för självständig undervisning.
 
-Kursanpassningarna är fortsatt draft. Granskningsunderlag och avgränsning finns i utvecklingsfilen quality/issue-2-review.md; den filen behövs inte under undervisningen. Ordoliberalism fördjupas i ideologies.js, monetarism i economics.js.
+Kursanpassningarna är fortsatt draft. Granskningsunderlag och avgränsning finns i utvecklingsfilen quality/issue-2-review.md; den filen behövs inte under undervisningen. Ordoliberalism fördjupas i ideologies.js, monetarism i economics.js. Kursens eget underlag knowledge/CHOICE.md ingår i COURSE.md och utvecklar finansiering, utförande, beslutanderätt och riskdelning. Det används i M02–M06, även när bilagornas axlar är förenklade. Utvecklingskontroll av detta underlag redovisas i quality/choice-review.md; ingen extern läsning krävs under undervisningen.
 
 Prioritet: tydliga definitioner och nyanserade ämnesbeskrivningar före slogans, koordinater och schematiska effektkedjor. Innehållet är ett pedagogiskt källunderlag, inte en oberoende verifiering av varje historiskt eller empiriskt påstående. Behåll källangivelsen enligt ursprungsprojektets policy och MIT-licens. Vid uppdatering jämför revisioner, granska ändringar och bygg om kursfilen.
 
@@ -357,6 +399,51 @@ Modulernas grundläggande ideologibeskrivningar, tre axlars riktningar och strat
 ## Kvarvarande granskning
 
 Oberoende ämnesgranskning av samtliga modeller och historiska exempel är inte utförd. Särskilt samlingsbegrepp som nyliberalism och socialism, kulturaxelns kategorier samt strategiernas demokratibeskrivningar kräver kontext. Källans likformiga struktur betyder inte att alla strategier eller ideologier har samma demokratiska risk. Inga statistiska effektstorlekar introduceras och ingen numerisk prognos görs. Skalan −10 till +10 är avstämd mot principles.json; ingen annan beräkning krävs.
+
+---
+
+# Val, finansiering och inflytande
+
+status: draft
+
+## Två former av inflytande
+
+Ett argument för ekonomisk frihet är att människor ska kunna påverka sin vardag genom återkommande val av tjänster, avtal, sparande och frivilliga sammanslutningar. Att kunna välja eller lämna en utförare kan ge inflytande utan att först vinna en politisk majoritet. Det kan gälla omsorg och vård, inte bara konsumtion av varor. Detta är ett argument om beslutanderätt och möjliga mekanismer, inte ett löfte om bättre resultat.
+
+Uttrycket ”marknaden som ett parallellt demokratiskt system” kan användas som en liknelse: många val signalerar önskemål och kan påverka utförare. Det är inte kursens definition av politisk demokrati. Politiska val bygger på lika rösträtt för de röstberättigade och gäller gemensamma beslut; köp påverkas av betalningsförmåga, priser och avtal. Köpare företräder inte automatiskt alla som berörs. En person kan ha inflytande som medborgare, brukare, kund och föreningsmedlem samtidigt.
+
+Kollektiv finansiering kan motiveras med att tillgång ska bero mindre på egen betalningsförmåga och att kostnader för stora behov ska delas. Demokratisk styrning kan ge gemensamt inflytande även åt den som saknar köpkraft. Det garanterar varken god tillgång, kvalitet eller gehör för individuella önskemål. Pröva möjliga hinder i båda formerna: få utförare, svårbedömd kvalitet, beroendeställning, långa beslutsvägar och svagt ansvarsutkrävande.
+
+## Fyra frågor som hålls isär
+
+| Fråga | Vad ska beskrivas? | Vanlig sammanblandning |
+|---|---|---|
+| Finansiering | Skatt, egen betalning, försäkring eller kombination | Privat utförare betyder inte egen betalning |
+| Utförande | Offentlig, vinstdrivande, idéburen eller kooperativ verksamhet | Ägarformen visar inte ensam kvalitet eller valmöjlighet |
+| Beslutanderätt | Vad väljer individen och vad bestäms gemensamt? | Offentlig finansiering betyder inte automatiskt en enda utförare |
+| Riskdelning | Vem bär kostnaden vid stora behov eller inkomstbortfall? | Försäkring är inte samma sak som att betala hela kostnaden själv |
+
+Textalternativ: fråga först vem som betalar, sedan vem som utför, vad personen kan bestämma och till sist vem som bär stora kostnader. Finansieringsformen avgör inte ensam de andra svaren.
+
+## Samma omsorgsbehov, olika upplägg
+
+Följande är hypotetiska modeller, inte beskrivningar av dagens svenska regler eller kommunala befogenheter. Förespråkarnas syften och osäkerheter anges på samma villkor. Ingen modell är en fullständig ideologi.
+
+| Modell | Tänkt väg till nytta | Vad behöver prövas? |
+|---|---|---|
+| Gemensam finansiering och offentlig drift | Samla resurser och fördela omsorg efter behov, med politiskt ansvar | Tillgång, kvalitet, brukarinflytande och möjlighet att få beslut omprövade |
+| Gemensam finansiering med val mellan godkända utförare | Dela kostnader och samtidigt låta personen välja inriktning och byta utförare | Verkliga alternativ, jämförbar information och villkor för personer med stora behov |
+| Större individuell finansiering, exempelvis köp eller frivillig försäkring | Ge större utrymme att bestämma innehåll och utförare utifrån egna prioriteringar | Betalningsförmåga, priser, försäkringsvillkor och skydd vid stora behov |
+
+Offentlig drift kan också erbjuda val mellan enheter och inflytande över innehållet. Godkända utförare kan ha olika ägarformer. Tabellen skiljer exempel på upplägg, inte exklusiva egenskaper.
+
+I försäkringsmodellen delas vissa kostnadsrisker genom premier och avtal, men vilka behov som täcks och vem som kan omfattas beror på villkoren. Gemensam skattefinansiering delar kostnader genom politiskt bestämda åtaganden; även där måste omfattning och faktisk tillgång prövas.
+
+Modeller kan kombineras, exempelvis en gemensamt finansierad grund och egna kompletteringar. Om lägre skatt föreslås: precisera vad som behålls gemensamt och vad individen ska finansiera; anta inte att alla får tillräckliga resurser eller att pris och utbud förblir oförändrade. Rätten att köpa en kompletterande försäkring, möjligheten att ha råd med den och dess faktiska täckning är olika frågor. Kursen tar inte ställning till vilka rättigheter eller regler som bör gälla.
+
+## Verkliga val och ansvar
+
+Undersök om personen kan jämföra alternativ, få plats, förstå villkor och byta utan orimliga kostnader eller avbrott. Pröva hur offentliga och privata aktörer kan granskas, rättas och hållas ansvariga. Val av utförare, klagomål, brukarinflytande, föreningsarbete och politiska val kan komplettera varandra. En välformulerad kritik ska bemöta den aktuella modellen, inte automatiskt tillskriva alla marknadsförslag frånvaro av skyddsnät eller alla offentliga förslag frånvaro av valfrihet.
 
 ---
 
@@ -629,7 +716,7 @@ export const ideologies = [
       'Universella mänskliga rättigheter',
     ],
     stateSyn: 'Staten ska i första hand skydda individuella rättigheter och upprätthålla rättsordningen. Dess legitimitet vilar på att den skyddar medborgarna från godtycke, inte på att den formar deras liv eller värderingar. Klassiska liberaler betonar därför en begränsad stat med tydligt definierade kärnfunktioner, även om vissa företrädare har accepterat viss offentlig verksamhet, exempelvis inom utbildning eller infrastruktur.',
-    ekonomi: 'Marknadsekonomi med stark äganderätt och frivilligt utbyte som norm. Omfördelning bör i regel begränsas, eftersom välstånd anses skapas bäst när individer kan disponera sin egendom och bära konsekvenserna av sina beslut. Samtidigt har det inom den klassiskt liberala traditionen funnits oenighet om hur långt staten får gå för att upprätthålla konkurrens, utbildning och social stabilitet.',
+    ekonomi: 'Marknadsekonomi med stark äganderätt och frivilligt utbyte som norm. Omfördelning bör i regel begränsas, eftersom välstånd anses skapas bäst när individer kan disponera sin egendom och bära konsekvenserna av sina beslut. Ett argument är att disponibla resurser och frivilliga avtal ger människor löpande inflytande över tjänster som möter deras behov, exempelvis omsorg eller kompletterande försäkring. Detta förutsätter bland annat verkliga alternativ och avgör inte ensamt hur ett grundskydd bör finansieras. Samtidigt har det inom den klassiskt liberala traditionen funnits oenighet om hur långt staten får gå för att upprätthålla konkurrens, utbildning och social stabilitet.',
     tänkare: ['John Locke', 'Adam Smith', 'John Stuart Mill'],
     spänningar: 'Spänning mellan negativ frihet — frånvaron av tvång — och de reella resurser som krävs för att utöva den. En person utan tillgångar är formellt fri men faktiskt begränsad. Klassiska liberaler är oense om huruvida detta är statens ansvar att åtgärda, eller om det räcker att undanröja rättsliga hinder.',
     color: '#5a6e4a',
@@ -731,7 +818,7 @@ export const ideologies = [
       'Effektiv resursallokering via marknader',
     ],
     stateSyn: 'Staten bör i huvudsak upprätthålla spelreglerna, skydda äganderätten och säkra stabila institutionella villkor, snarare än att styra priser, produktion eller resursfördelning direkt. Välfärdsstaten ses ofta som ineffektiv om den blir alltför omfattande eller snedvrider incitament. Samtidigt förutsätter nyliberala modeller normalt en aktiv stat som konstruerar och försvarar marknadsordningen.',
-    ekonomi: 'Marknadsekonomi med låg skatt, begränsad omfördelning och stark tilltro till konkurrens och prismekanismer. Privatisering och avreglering ses som vägar till både effektivitet och ökad individuell handlingsfrihet. Inom forskningen används begreppet nyliberalism brett, vilket gör att det kan omfatta både en idétradition och olika reformprogram med delvis olika innehåll.',
+    ekonomi: 'Marknadsekonomi med låg skatt, begränsad omfördelning och stark tilltro till konkurrens och prismekanismer. Privatisering och avreglering ses som vägar till både effektivitet och ökad individuell handlingsfrihet. Förespråkare kan betona möjligheten att välja, avtala och byta tjänster, även för vård och omsorg; egen finansiering och offentligt finansierade val är olika upplägg. Hur tillgång, försäkringsskydd och makt över utföraren faktiskt påverkas kräver separat prövning. Inom forskningen används begreppet nyliberalism brett, vilket gör att det kan omfatta både en idétradition och olika reformprogram med delvis olika innehåll.',
     tänkare: ['Friedrich Hayek', 'Milton Friedman', 'James Buchanan', 'Ludwig von Mises'],
     spänningar: 'Spänning mellan marknadsfrihet och demokratisk legitimitet — avreglering, oberoende institutioner och global kapitalrörlighet kan minska nationalstatens handlingsutrymme. Dessutom finns en empirisk debatt om relationen mellan marknadsreformer, tillväxt, effektivitet och ojämlikhet: vissa menar att reformerna ökat välstånd, andra att de också förstärkt sociala klyftor på ett mer varaktigt sätt.',
     color: '#2f7b7b',
@@ -1099,7 +1186,7 @@ export const ideologies = [
 ```json
 {
   "meta": {
-    "intro": "Politiska konflikter framställs ofta som en kamp mellan ont och gott, kunniga och okunniga. Men de flesta bottnar i något enklare: olika utgångspunkter som leder till olika slutsatser från samma fakta. Det här verktyget låter dig utforska hur olika ideologier resonerar kring ett och samma problem, och vad de invänder mot varandra. Axeln är ett navigeringsverktyg, inte ett påstående om vem som har rätt."
+    "intro": "Politiska konflikter framställs ofta som en kamp mellan ont och gott, kunniga och okunniga. Men de flesta bottnar i något enklare: olika utgångspunkter som leder till olika slutsatser från samma fakta. Det här verktyget låter dig utforska hur olika ideologier resonerar kring ett och samma problem, och vad de invänder mot varandra. Axeln är ett navigeringsverktyg, inte ett påstående om vem som har rätt. Finansiering, utförande, beslutanderätt och riskdelning är separata frågor; axlarna är schematiska och avgör inte hur dessa kombineras. Perspektivens förslag och invändningar är argument att pröva, inte fastställda effekter."
   },
   "ideologies": [
     {
@@ -1167,7 +1254,7 @@ export const ideologies = [
         {
           "ideologyId": "socialdemokrati",
           "axisPos": 25,
-          "solution": "En stark skattefinansierad välfärd kombineras med pragmatiska inslag av privata utförare. Grundprincipen är universell tillgång – alla betalar, alla får. Omfördelning är nödvändig för social sammanhållning.",
+          "solution": "Gemensam skattefinansiering motiveras med tillgång efter behov och delade kostnader även för personer med små egna resurser. Offentlig och privat drift kan kombineras i olika former. Politiskt ansvar, brukarinflytande och eventuella utförarval behöver utformas så att både gemensam tillgång och individuella önskemål kan hanteras; finansieringen garanterar inte ensam kvalitet.",
           "counterargs": [
             {
               "fromId": "nyliberalism",
@@ -1212,7 +1299,7 @@ export const ideologies = [
         {
           "ideologyId": "nyliberalism",
           "axisPos": 80,
-          "solution": "Konkurrens och valfrihet driver kvalitet. Skattefinansiering kan bestå men utförandet bör öppnas för privata aktörer. På sikt bör individen ges större ansvar för sin egen välfärd via sparande och försäkring.",
+          "solution": "Förespråkare framhåller konkurrens och individuella val som vägar till kvalitet och inflytande över vård och omsorg. Skattefinansiering kan kombineras med val av utförare; andra förslag ger större utrymme för egen betalning, sparande eller försäkring. Tanken är att individen ska kunna påverka hur behoven tillgodoses, inte bara få mer konsumtionsutrymme. Förslaget behöver ange vad som finansieras gemensamt och hur stora behov hanteras.",
           "counterargs": [
             {
               "fromId": "socialdemokrati",
@@ -1227,11 +1314,11 @@ export const ideologies = [
         {
           "ideologyId": "libertarianism",
           "axisPos": 96,
-          "solution": "Tvångsfinansierad välfärd kränker individens frihet. Frivillig välgörenhet, ömsesidiga försäkringar och marknaden kan fylla funktionerna. Staten bör begränsas till ett absolut minimum.",
+          "solution": "Tvångsfinansiering ifrågasätts utifrån individens rätt att förfoga över sina resurser. Frivilliga köp, ömsesidiga försäkringar, föreningar och välgörenhet föreslås som sätt att finansiera hjälp och ge inflytande över dess innehåll. Hur personer utan tillräckliga resurser eller med stora behov får tillgång är en central prövningsfråga; lösningarnas effekter följer inte av frihetsprincipen ensam.",
           "counterargs": [
             {
               "fromId": "socialdemokrati",
-              "text": "Frivilliga system fungerar inte – de som behöver mest skydd faller igenom."
+              "text": "Hur säkerställs tillgång för personer som saknar betalningsförmåga eller inte omfattas av ett tillräckligt försäkringsskydd? Frivillig finansiering behöver visa hur även stora behov kan mötas."
             },
             {
               "fromId": "konservatism",

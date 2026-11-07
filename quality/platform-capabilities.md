@@ -24,3 +24,8 @@ llms.txt är kompletterande upptäcktshjälp, ingen garanterad standard för aut
 Samma målklienter och textreserv behålls. Inga nya widgets eller andra verktyg krävs av ändringarna för issue 2.
 
 Officiell dokumentation kontrollerad på nytt: OpenAI:s capabilities overview ovan (visade ”Updated: 10 days ago”) anger att verktyg beror på abonnemang och inställningar. Claudes web search-dokument ovan (daterat 2026-10-07) beskriver web fetch med länkar och villkor för att aktivera webbtillgång. Detta är fortsatt documented, inte tested för kursstart eller undervisning i nya konsumentchattar. Tabellernas textalternativ och inklistring av COURSE.md kvarstår. GitHub-läsning och kloning fungerar i utvecklingsmiljön; det säger inget om deltagarens klient.
+
+
+## Val och inflytande – uppföljning 2026-11-07
+
+OpenAI:s capabilities overview och Claudes web search-dokument ovan öppnades på nytt vid denna ändring; samma dokumenterade villkor och datum som uppföljningen ovan. Inga nya plattformsfunktioner används: jämförelserna är vanlig text/tabeller med löptext som reserv. Nya konsumentchattar och mobilrendering för T19–T24 är inte testade. Dokumentkontroll är inte ett acceptanstest.

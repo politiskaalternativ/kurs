@@ -12,3 +12,6 @@
 - [x] Rätta issue 2:s multiplikatorförklaring, motargument, textkodning och monetarismlucka; samordna progression och bedömning.
 - [ ] Granska och deltagartesta M04:s tidigarelagda kontrastövning samt överföringen till M06 (T13–T18).
 - [ ] Slutför symmetrisk sak- och språkgranskning av bilagornas historiska och empiriska generaliseringar; se quality/issue-2-review.md.
+
+- [x] Förtydliga val, finansiering, utförande, beslutanderätt och riskdelning genom M01–M06; behandla marknadsdemokrati som liknelse med tydliga gränser.
+- [ ] Granska och deltagartesta balans och överföring för val/inflytande (T19–T24); se quality/choice-review.md.
