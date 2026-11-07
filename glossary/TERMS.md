@@ -15,3 +15,6 @@ status: draft
 | Pluralism | Utrymme för skilda legitima intressen och ståndpunkter | Att alla faktapåståenden är lika väl belagda |
 | Rättsstat | Maktutövning bunden av rättsliga regler och rättssäkerhet | Enbart många lagar |
 | Extern effekt | Påverkan på andra som inte fullt återspeglas i en transaktion | Alla indirekta effekter |
+| Utgiftsmultiplikator | Förändring i produktion i förhållande till förändring i offentliga utgifter | Garanterad överavkastning, skatteåterflöde eller nettovinst |
+| Monetarism | Ekonomisk skola som betonar penningmängdens betydelse och penningpolitiska regler | All penningpolitik eller alla inflationsmål |
+| Vinstutdelning | Överföring av vinst till ägare | Överskott som återinvesteras i verksamheten |

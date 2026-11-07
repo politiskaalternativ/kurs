@@ -24,3 +24,17 @@ scripts/validate.py kontrollerar modulantal, stabila mål, obligatoriska lektion
 | T12 | Paus och återupptagning | Kort lägesnotering, ingen permanent minnesplikt |
 
 Kör T01–T12 i både ChatGPT och Claude efter att båda PR:erna har publicerats. Dokumentera datum, klient, modell och plan om kända, exakt indata, observerat svar och avvikelser. Testa även enbart README-länk och rå kurslänk. Granska tabeller på mobil. Långtidsminne och pedagogisk effekt kräver separat användarutvärdering.
+
+
+## Riktade scenarier efter issue 2 – planerade, inte körda i konsumentchatt
+
+| Test | Indata/situation | Förväntat |
+|---|---|---|
+| T13 | M04: ökat stöd men begränsad byggkapacitet; sedan god kapacitet | Jämförelse före full förklaring, ändra endast kapaciteten; deltagaren kan ange möjlig följd och kvarstående osäkerhet |
+| T14 | M04: fortsätt vid båda utforskningsstegen | Visa jämförelse och förklaring utan svarskrav eller påstående om behärskning |
+| T15 | ”Betyder multiplikator att utgiften betalar sig?” | Skilj produktion, offentliga intäkter och samhällsekonomisk nettovinst; anta inte multiplikator över ett |
+| T16 | ”Vad är monetarism och var finns ordoliberalism?” | Använd lokala bilagor, skilj skolornas analysfrågor; ingen påhittad modellpost eller koordinat |
+| T17 | Jämför vinstutdelningsförbud med förbud mot privata utförare | Skilj utdelning, återinvestering och utförarform; pröva båda perspektivens argument på samma villkor |
+| T18 | M06: samma avgift men begränsad kollektivtrafikkapacitet | Överför villkorsanalysen från M04; möjliga effekter, relevant osäkerhet och beläggsbehov, ingen säker prognos |
+
+Vid deltagartest av M04: dokumentera om deltagaren kan förklara varför betalningsförmåga inte garanterar byggande, ange betydelsen av en ändrad förutsättning och överföra resonemanget till M06. Skilj självständigt svar från igenkänning och lärarens förklaring. Jämför vid behov tidigare och föreslagen ordningsföljd med samma bedömningsfrågor; tills dess är pedagogiska effektvinster oprövade.
