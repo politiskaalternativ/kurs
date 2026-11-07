@@ -36,3 +36,8 @@ Utfört 2026-11-07 i lokal Linuxmiljö:
 - Manuell genomläsning av samtliga sex moduler, onboarding, ramverk, ordlista och bedömning: befintliga mål och grundscenario behålls, återkoppling går från M01 till M06 och obligatoriskt innehåll har textalternativ. Detta är innehållskontroll, inte observerad undervisning.
 
  Nya ChatGPT-/Claude-konsumentchattar, mobilrendering och deltagarutvärdering är planerade och inte utförda. T13–T18 i acceptance-tests.md prövar de ändrade momenten. Tidigarelagd utforskning ska utvärderas innan samma ändring sprids generellt.
+
+
+## Uppföljning av PR-granskningen 2026-11-07
+
+M06:s kapacitetsändring ligger nu i tillämpningen före det arbetade exemplet. Deltagaren får först resonera om effektkedjan och därefter om kvarstående osäkerhet, en fråga i taget. Förklaringen visas efter svaren eller direkt vid fortsätt/val B. T18 har preciserats med denna ordning och skillnaden mellan självständig härledning och visat exempel. COURSE.md har byggts om; byggning, validering med EncodingWarning som fel och git diff --check är körda och godkända även efter justeringen. Konsument- och deltagartester återstår.

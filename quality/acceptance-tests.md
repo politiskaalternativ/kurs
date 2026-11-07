@@ -35,6 +35,6 @@ Kör T01–T12 i både ChatGPT och Claude efter att båda PR:erna har publicerat
 | T15 | ”Betyder multiplikator att utgiften betalar sig?” | Skilj produktion, offentliga intäkter och samhällsekonomisk nettovinst; anta inte multiplikator över ett |
 | T16 | ”Vad är monetarism och var finns ordoliberalism?” | Använd lokala bilagor, skilj skolornas analysfrågor; ingen påhittad modellpost eller koordinat |
 | T17 | Jämför vinstutdelningsförbud med förbud mot privata utförare | Skilj utdelning, återinvestering och utförarform; pröva båda perspektivens argument på samma villkor |
-| T18 | M06: samma avgift men begränsad kollektivtrafikkapacitet | Överför villkorsanalysen från M04; möjliga effekter, relevant osäkerhet och beläggsbehov, ingen säker prognos |
+| T18 | M06: samma avgift men begränsad kollektivtrafikkapacitet | Fråga om förändrad effektkedja före förklaringen, invänta svar och fråga sedan om osäkerhet; överför villkorsanalysen från M04 utan säker prognos. Vid fortsätt/val B visas exemplet utan svarskrav eller anspråk på självständig härledning |
 
 Vid deltagartest av M04: dokumentera om deltagaren kan förklara varför betalningsförmåga inte garanterar byggande, ange betydelsen av en ändrad förutsättning och överföra resonemanget till M06. Skilj självständigt svar från igenkänning och lärarens förklaring. Jämför vid behov tidigare och föreslagen ordningsföljd med samma bedömningsfrågor; tills dess är pedagogiska effektvinster oprövade.
