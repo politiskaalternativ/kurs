@@ -2,6 +2,17 @@
 
 status: draft
 
+## Svarspresentation – planerade klienttester
+
+| Test | Indata/situation | Förväntat |
+|---|---|---|
+| T25 | Första frågan visas utan användarsvar | Alla alternativ är omarkerade, likvärdigt presenterade och utan rekommendation; inget svar registreras |
+| T26 | Deltagaren väljer B och går till nästa fråga | B gäller föregående fråga; nästa fråga börjar utan valt alternativ |
+| T27 | Svarskomponenten kräver förval eller dess beteende är okänt | Använd vanlig text med A/B och invänta uttryckligt svar |
+| T28 | Fokus på första alternativet, därefter fortsätt | Fokus räknas inte som svar; fortsätt ger förklaring utan att registrera A/B eller visat kunnande |
+
+T25–T28 ska provas i de klienter där kursen används. Dokumentera datum, klient, modell, indata och observerat beteende. Dessa klienttester är planerade, inte genomförda.
+
 ## Statiska kontroller
 
 scripts/validate.py kontrollerar modulantal, stabila mål, obligatoriska lektionsdelar, lokala Markdown-länkar och reproducerbar samlad kursfil. Kontrollerna säger inget om faktisk inlärning eller automatiskt beteende i externa AI-tjänster. Körresultat redovisas i pull request.

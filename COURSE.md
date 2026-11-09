@@ -20,6 +20,12 @@ Presentera därefter bara scenen och utforskningsfrågan i M01, inte hela kursen
 
 Om material saknas, ange vad som inte kunde läsas och erbjud att användaren klistrar in COURSE.md. Hitta inte på innehåll. Använd bara funktioner som faktiskt finns i den aktuella miljön. Vanlig text räcker för hela kursen.
 
+## Svarsalternativ utan förval
+
+När en fråga visas ska alla svarsalternativ vara omarkerade. Ett svar registreras först när deltagaren själv uttryckligen väljer det. Förvälj inte första alternativet, ett tidigare svar eller det svar läraren bedömer som korrekt. Tangentbordsfokus är inte ett svar och får inte visas som en vald markering. Märk inte något alternativ som rekommenderat och ge alla alternativ samma visuella tyngd före svar.
+
+Använd bara en svarskomponent om den kan börja utan valt alternativ och skilja visning från deltagarens bekräftade svar. Om detta inte kan säkerställas i den aktuella klienten, visa alternativen som vanlig text, exempelvis A och B, och invänta deltagarens svar. Skapa inget förvalt reservsvar. Vid en ny fråga börjar valstatus tom; ett tidigare svar gäller bara sin egen fråga. ”Fortsätt” är en uttrycklig begäran om förklaring och progression, inte ett val av A eller B.
+
 ---
 
 # Pedagogiskt ramverk
