@@ -62,6 +62,12 @@ Börja med det perspektiv som deltagaren väljer. Utforska sedan de övriga rele
 
 Visa jämförelsetabeller när de gör skillnader tydliga. Alla nödvändiga insikter ska även kunna uttryckas i vanlig text. Diagram är frivilliga och får inte framställa antagna samband som belagda. Undvik påhittade koordinater och dekorativa bilder.
 
+## Historiska sakuppgifter och fiktiva fall
+
+Namn, årtal och andra kontrollerbara historiska sakuppgifter kan ge bakgrund till ett begrepp. När deltagaren utforskar politiska motiv, ansvar eller följder, använd ett tydligt fiktivt fall och ange vilka förutsättningar som är givna. Låt deltagaren pröva flera möjliga förklaringar och fråga vilket underlag som skulle kunna skilja dem åt.
+
+Om deltagaren tar upp en verklig händelse under kursen, skilj en eventuell sakfråga från frågan om hur händelsen ska tolkas. Besvara sakfrågan om det finns kontrollerat underlag. För över tolkningsfrågan till en självständig fiktiv situation. Använd inte ett verkligt händelseförlopp som facit för vilken idé som fungerar eller vem som hade rätt. Samma princip gäller motargument, återkoppling och nygenererade exempel.
+
 ## Minnesförstärkning
 
 Återkalla frivilligt skillnaden mellan värdering och belägg i M04, frihetsbegreppen i M03, institutionernas roll i M05 och alla tidigare verktyg i M06. Be om en kort förutsägelse före förklaringen när det hjälper. Variera tillämpningen. En gissning visar igenkänning, inte säker förståelse. Ingen permanent användarprofil behövs. Sammanfatta vid paus: modul, nyckelbegrepp, nästa scen och eventuell missuppfattning. Påstå inte att repetition i en session bevisar varaktigt lärande.
@@ -219,7 +225,7 @@ Lindviks bostadsdiskussion väcker en ny fråga: Samira behöver ett boende med 
 
 ## Tillämpning och övergång
 
-Visa även socialismens fokus på ägande och ekonomisk makt, ekologismens fokus på ekologiska gränser, ordoliberalismens konkurrensregler och libertarianismens långtgående begränsning av staten. Använd knowledge/source/ideologies.js för fördjupning inklusive nationalism, nyliberalism, kommunism och fascism. Skilj deras teoretiska mål, interna variation och historiska tillämpningar. Neutralitet kräver inte att auktoritära förtrycksformer framställs som demokratiska.
+Visa även socialismens fokus på ägande och ekonomisk makt, ekologismens fokus på ekologiska gränser, ordoliberalismens konkurrensregler och libertarianismens långtgående begränsning av staten. Använd knowledge/source/ideologies.js för fördjupning inklusive nationalism, nyliberalism, kommunism och fascism. Jämför deras mål och interna variation genom att låta olika företrädare ta ställning till samma fiktiva förslag. Neutralitet kräver inte att auktoritära förtrycksformer framställs som demokratiska.
 
 Knyt jämförelsen till M01: ett gemensamt mål kan förenas med olika värderingar och olika hypoteser om vad som fungerar. Jämför mål, föreslagen mekanism, intern spänning och starkaste rimliga invändning på samma villkor för de perspektiv som behandlas. Ett mål är inte ett belagt resultat.
 
@@ -375,7 +381,7 @@ B. Ideologi handlar här om värden och samhällssyn; strategi om mobilisering, 
 | Ledarpersonalisering | Göra ansvar och ledarskap synligt | Är institutionerna oberoende av personen? |
 | Klientelism | Knyta selektiva förmåner till politiskt stöd | Undermineras likabehandling och fritt deltagande? |
 
-Textalternativ: ta en strategi åt gången och ange dess metod och granskningsfråga. Tabellen är analytiska exempel, inte en rangordning.
+Textalternativ: ta en strategi åt gången och ange dess metod och granskningsfråga. Vid fördjupning, välj en fiktiv scen ur strategibilagan och låt deltagaren undersöka den med granskningsfrågan innan du ger återkoppling.
 
 ## Inflytande mellan valen
 
@@ -441,13 +447,13 @@ Använd pedagogy/ASSESSMENT.md. Sammanfatta vad deltagaren faktiskt har visat oc
 
 status: draft
 
-Kursen baseras på politiskaalternativ/webbplattform, revision fb0182fe5ef16875af61ae13ceb725d701a86d48, hämtad 2026-11-05. Fem datakällor ligger i source/: ideologies.js, economics.js, strategies.js, principles.json och problems.json. strategies.js och principles.json är oförändrade ögonblicksbilder. ideologies.js, economics.js och problems.json är kursanpassade utifrån samma ursprungsrevision: multiplikatorförklaringen och motargumentet om vinstuttag har rättats, monetarism har lagts till och beskrivningar av valfrihet, välfärdsfinansiering och individuellt inflytande har nyanserats. De är därför inte längre identiska med ursprungsfilerna. Dessa är tillgängliga lokalt för utveckling; COURSE.md innehåller också deras fullständiga text för självständig undervisning.
+Kursen baseras på politiskaalternativ/webbplattform, revision fb0182fe5ef16875af61ae13ceb725d701a86d48, hämtad 2026-11-05. Fem datakällor ligger i source/: ideologies.js, economics.js, strategies.js, principles.json och problems.json. principles.json är en oförändrad ögonblicksbild. Strategibilagans exempel är skrivna för den fiktiva kommunen Lindvik. Även ideologies.js, economics.js och problems.json är kursanpassade utifrån samma ursprungsrevision: multiplikatorförklaringen och motargumentet om vinstuttag har rättats, monetarism har lagts till och beskrivningar av valfrihet, välfärdsfinansiering och individuellt inflytande har nyanserats. De är därför inte längre identiska med ursprungsfilerna. Dessa är tillgängliga lokalt för utveckling; COURSE.md innehåller också deras fullständiga text för självständig undervisning.
 
 Kursanpassningarna är fortsatt draft. Granskningsunderlag och avgränsning finns i utvecklingsfilen quality/issue-2-review.md; den filen behövs inte under undervisningen. Ordoliberalism fördjupas i ideologies.js, monetarism i economics.js. Kursens eget underlag knowledge/CHOICE.md ingår i COURSE.md och utvecklar finansiering, utförande, beslutanderätt och riskdelning. Det används i M02–M06, även när bilagornas axlar är förenklade. Utvecklingskontroll av detta underlag redovisas i quality/choice-review.md; ingen extern läsning krävs under undervisningen.
 
 Prioritet: tydliga definitioner och nyanserade ämnesbeskrivningar före slogans, koordinater och schematiska effektkedjor. Innehållet är ett pedagogiskt källunderlag, inte en oberoende verifiering av varje historiskt eller empiriskt påstående. Behåll källangivelsen enligt ursprungsprojektets policy och MIT-licens. Vid uppdatering jämför revisioner, granska ändringar och bygg om kursfilen.
 
-Kursens egna scenarier är fiktiva och omskrivna för undervisning. Inga fiktiva utfall får beskrivas som uppmätta fakta. Använd inte historiska exempel eller detaljer utanför modulernas grundinnehåll utan att kontrollera dem separat. Status verified kräver sakgranskning, inte bara filkontroll.
+Kursens egna scenarier är fiktiva och omskrivna för undervisning. Inga fiktiva utfall får beskrivas som uppmätta fakta. Historiska sakuppgifter får ge bakgrund. För frågor om politiska motiv, följder och värderingar används fiktiva fall även vid fördjupning. Status verified kräver sakgranskning, inte bara filkontroll.
 
 ## Genomförd saklig avstämning
 
@@ -455,7 +461,7 @@ Modulernas grundläggande ideologibeskrivningar, tre axlars riktningar och strat
 
 ## Kvarvarande granskning
 
-Oberoende ämnesgranskning av samtliga modeller och historiska exempel är inte utförd. Särskilt samlingsbegrepp som nyliberalism och socialism, kulturaxelns kategorier samt strategiernas demokratibeskrivningar kräver kontext. Källans likformiga struktur betyder inte att alla strategier eller ideologier har samma demokratiska risk. Inga statistiska effektstorlekar introduceras och ingen numerisk prognos görs. Skalan −10 till +10 är avstämd mot principles.json; ingen annan beräkning krävs.
+Oberoende ämnesgranskning av samtliga modeller och sakuppgifter återstår. Särskilt samlingsbegrepp som nyliberalism och socialism, kulturaxelns kategorier samt strategiernas demokratibeskrivningar kräver kontext. Källans likformiga struktur betyder inte att alla strategier eller ideologier har samma demokratiska risk. Inga statistiska effektstorlekar introduceras och ingen numerisk prognos görs. Skalan −10 till +10 är avstämd mot principles.json; ingen annan beräkning krävs.
 
 ---
 
@@ -551,9 +557,9 @@ export const philosophies = [
       'Vinst ersätts av behovsstyrda produktionsmål',
       'Eliminerar privata marknader för kapitalvaror',
     ],
-    stateSyn: 'Staten är den primära ekonomiska aktören och fastställer vad som ska produceras, hur och för vem. Planering kan ske centralt (Gosplan-modellen) eller i decentraliserade varianter med arbetarstyre.',
+    stateSyn: 'Staten är den primära ekonomiska aktören och fastställer vad som ska produceras, hur och för vem. En central instans kan lägga planen, eller så kan arbetsplatser delta i planeringen genom arbetarstyre.',
     fordelning: 'Fördelning sker politiskt snarare än via marknaden. Målet är likhet i utfall snarare än likhet i möjligheter.',
-    kritik: 'Beräkningsproblemet (Mises, Hayek): utan prisinformation är det omöjligt att veta hur resurser värderas relativt varandra. Historisk erfarenhet visar på låg effektivitet, bristande innovation och frihetsförtryck.',
+    kritik: 'Mises och Hayek frågar hur den som planerar ska jämföra olika användningar av knappa resurser när marknadspriser saknas. Vilken information skulle kunna vägleda beslutet?',
     tänkare: ['Karl Marx', 'Friedrich Engels', 'Nikolai Bukharin'],
     tensions: 'Beräkningsproblem, incitamentsproblem och politisk maktkoncentration. Centraliserad planering tenderar att prioritera sin egen fortlevnad framför folkliga behov.',
     axes: { marknad: 5, stat: 95, frihet: 10, jämlikhet: 80 },
@@ -597,9 +603,9 @@ export const philosophies = [
     ],
     stateSyn: 'Staten är i kapitalismen ett instrument för den härskande klassen. I övergångsfasen till kommunism behöver proletariatet en egen stat — som på sikt ska bortdö.',
     fordelning: '"Från var och en efter förmåga, till var och en efter behov." Fördelning ska spegla behov, inte bidrag till marknaden.',
-    kritik: 'Värdeteori baserad på arbete stämmer dåligt med hur priser faktiskt bildas. Historiska tillämpningar har konsekvent lett till auktoritärt styre snarare än frihetlig kommunism.',
+    kritik: 'En invändning mot arbetsvärdeteorin gäller hur den förklarar prisskillnader mellan varor som kräver lika mycket arbete.',
     tänkare: ['Karl Marx', 'Friedrich Engels', 'Rosa Luxemburg', 'Antonio Gramsci'],
-    tensions: 'Spänning mellan utopisk kommunism och faktisk statskapitalism. Vem definierar proletariatets intressen? Vad händer om "övergångsstaten" inte vill bortdö?',
+    tensions: 'Om en stat förvaltar produktionen under en övergångsperiod, vem får då företräda arbetarna och vem kan besluta att avveckla statens befogenheter?',
     axes: { marknad: 10, stat: 85, frihet: 20, jämlikhet: 90 },
     tableRow: { agande: 'Gemensamt/kollektivt', prisbildning: 'Avskaffas i slutstadiet', statRoll: 'Övergångsinstrument', fordelning: 'Behovsstyrd' },
   },
@@ -621,7 +627,7 @@ export const philosophies = [
     fordelning: 'Fördelning är sekundär i det klassiska ramverket, men sociala investeringar motiveras som efterfrågestimulerande.',
     kritik: 'Riksekonomiska risker: politiken tenderar att bli asymmetrisk (underskott alltid, överskott aldrig). Crowding out — statliga lån konkurrerar med privata investeringar om kapital.',
     tänkare: ['John Maynard Keynes', 'Paul Samuelson', 'James Tobin', 'Paul Krugman'],
-    tensions: 'Fungerar modellen på lång sikt? Keynes svarade: "På lång sikt är vi alla döda." Kritiker menar att kortsiktigt tänkande ackumulerar skuld och snedvridningar.',
+    tensions: 'Hur bör tillfälligt stöd till efterfrågan vägas mot framtida räntekostnader? Svaret beror bland annat på stödets varaktighet och möjligheten att minska underskottet när konjunkturen vänder.',
     axes: { marknad: 50, stat: 60, frihet: 55, jämlikhet: 60 },
     tableRow: { agande: 'Blandat', prisbildning: 'Marknadsbaserad', statRoll: 'Konjunkturstabilisator', fordelning: 'Marknad + omfördelning' },
   },
@@ -790,9 +796,9 @@ export const ideologies = [
       'Från var och en efter förmåga, till var och en efter behov',
     ],
     stateSyn: 'I klassisk marxistisk teori är staten i övergångsfasen ett instrument för proletariatets herravälde — ett temporärt verktyg som på sikt ska göra sig självt överflödigt. När klassmotsättningarna är upplösta och ett klasslöst samhälle uppnåtts ska staten bortdö och ersättas av fri association mellan individer och kollektiv.',
-    ekonomi: 'Kommunismen syftar till gemensamt ägande av produktionsmedlen och till att marknadens logik ska ersättas av produktion för behov snarare än profit. I historiska tillämpningar har detta ofta tagit formen av central planering, även om den marxistiska teorin inte alltid specificerar en enda exakt ekonomisk modell för det framtida kommunistiska samhället. Kapitalackumulation och exploatering av lönearbete ses som grundläggande orättvisor som måste avskaffas, inte enbart reformeras.',
+    ekonomi: 'Kommunismen syftar till gemensamt ägande av produktionsmedlen och till att marknadens logik ska ersättas av produktion för behov snarare än profit. Hur produktionen ska samordnas och var besluten ska fattas är frågor som den marxistiska traditionen ger olika svar på. Kapitalackumulation och exploatering av lönearbete ses som grundläggande orättvisor som måste avskaffas, inte enbart reformeras.',
     tänkare: ['Karl Marx', 'Friedrich Engels', 'Vladimir Lenin'],
-    spänningar: 'Spänning mellan det utopiska slutmålet — den statslösa kommunismen — och de historiska erfarenheterna av centraliserad makt och auktoritärt styre. Hur ska övergångsfasen styras utan att makten stelnar? Och vem har rätt att definiera proletariatets intressen i dess namn?',
+    spänningar: 'Det finns en spänning mellan målet om ett statslöst samhälle och den makt som tilldelas staten under en tänkt övergång. Hur skulle den makten kunna begränsas? Och vem har rätt att definiera proletariatets intressen i dess namn?',
     color: '#7a1f2a',
   },
   {
@@ -824,7 +830,7 @@ export const ideologies = [
       'Universella välfärdstjänster',
     ],
     stateSyn: 'Staten är en aktiv korrektiv kraft mot marknadens ojämlikheter — inte ett nödvändigt ont utan ett demokratiskt verktyg. Genom lagstiftning, skatter och offentliga institutioner kan politiken forma de villkor under vilka marknaden verkar och säkra att dess frukter fördelas brett.',
-    ekonomi: 'Blandekonomi med stark offentlig sektor kombinerad med privat näringsliv. Marknaden accepteras i regel som ett effektivt sätt att producera varor och tjänster, men lämnas inte oreglerad. Omfördelning via progressiv beskattning och universella välfärdstjänster är central. Socialdemokratin har utvecklats från socialistiska rötter till en reformistisk mittenposition i många länder, med betydande variation mellan exempelvis nordiska och kontinentaleuropeiska traditioner.',
+    ekonomi: 'Blandekonomi med stark offentlig sektor kombinerad med privat näringsliv. Marknaden accepteras i regel som ett effektivt sätt att producera varor och tjänster, men lämnas inte oreglerad. Omfördelning via progressiv beskattning och universella välfärdstjänster är central. Inom socialdemokratin finns olika uppfattningar om hur långt gemensamt ägande och politisk styrning bör sträcka sig.',
     tänkare: ['Eduard Bernstein', 'Gunnar Myrdal', 'Anthony Crosland'],
     spänningar: 'Spänning mellan ekonomisk effektivitet och jämlikhetsmål — höga skatter och generösa ersättningssystem kan enligt kritiker dämpa incitament och konkurrenskraft. Dessutom finns en långsiktig ideologisk spänning: är socialdemokratin ett steg mot socialism, eller är den i grunden ett försvar för en reglerad kapitalism?',
     color: '#8b3a2a',
@@ -1243,7 +1249,7 @@ export const ideologies = [
 ```json
 {
   "meta": {
-    "intro": "Politiska konflikter framställs ofta som en kamp mellan ont och gott, kunniga och okunniga. Men de flesta bottnar i något enklare: olika utgångspunkter som leder till olika slutsatser från samma fakta. Det här verktyget låter dig utforska hur olika ideologier resonerar kring ett och samma problem, och vad de invänder mot varandra. Axeln är ett navigeringsverktyg, inte ett påstående om vem som har rätt. Finansiering, utförande, beslutanderätt och riskdelning är separata frågor; axlarna är schematiska och avgör inte hur dessa kombineras. Perspektivens förslag och invändningar är argument att pröva, inte fastställda effekter."
+    "intro": "Politiska konflikter framställs ofta som en kamp mellan ont och gott, kunniga och okunniga. Men de flesta bottnar i något enklare: olika utgångspunkter som leder till olika slutsatser från samma fakta. Det här verktyget låter dig utforska hur olika ideologier resonerar kring ett och samma problem, och vad de invänder mot varandra. Axeln är ett navigeringsverktyg, inte ett påstående om vem som har rätt. Finansiering, utförande, beslutanderätt och riskdelning är separata frågor; axlarna är schematiska och avgör inte hur dessa kombineras. Perspektivens förslag och invändningar är argument att pröva, inte fastställda effekter. Använd frågorna som tankeexperiment. Motiven och följderna undersöks inom det antagna fallet."
   },
   "ideologies": [
     {
@@ -1388,7 +1394,7 @@ export const ideologies = [
     {
       "id": "bostadsbristen",
       "title": "Hur ska bostadsbristen lösas?",
-      "description": "Sverige har haft bostadsbrist i decennier, särskilt i städerna. Orsakerna är omdebatterade – och lösningarna ännu mer.",
+      "description": "Anta att många i Lindvik söker bostad och att få nya bostäder byggs. Vilka hinder skulle kunna förklara det, och vilka åtgärder vill olika företrädare pröva?",
       "axis": {
         "left": "Reglering & subvention",
         "right": "Marknad & avreglering"
@@ -1401,7 +1407,7 @@ export const ideologies = [
           "counterargs": [
             {
               "fromId": "nyliberalism",
-              "text": "Hyresreglering minskar utbudet – historien visar att det förvärrar bostadsbristen på lång sikt."
+              "text": "Om hyrorna begränsas, hur påverkar det viljan att bygga och möjligheten att efterfråga de nya bostäderna?"
             },
             {
               "fromId": "libertarianism",
@@ -1489,7 +1495,7 @@ export const ideologies = [
     {
       "id": "vinster-valfard",
       "title": "Ska vinster tillåtas i välfärden?",
-      "description": "Privata företag driver skolor, vårdcentraler och äldreboenden med skattemedel. Frågan om de ska få ta ut vinst ur verksamheten är en av de mest laddade i svensk politik.",
+      "description": "Anta att både kommunala och privata utförare driver skattefinansierade verksamheter i Lindvik. Vilka regler för utdelning vill olika företrädare föreslå?",
       "axis": {
         "left": "Förbud mot vinstuttag",
         "right": "Fri vinstmöjlighet"
@@ -1566,7 +1572,7 @@ export const ideologies = [
             },
             {
               "fromId": "socialdemokrati",
-              "text": "Empiriskt har vinstdrivna välfärdsföretag i flera fall prioriterat avkastning framför personal och omsorgskvalitet."
+              "text": "Om en utförare kan öka sin utdelning genom att dra ned på bemanningen, hur kan beställare och brukare upptäcka om omsorgens kvalitet påverkas?"
             }
           ]
         },
@@ -1577,7 +1583,7 @@ export const ideologies = [
           "counterargs": [
             {
               "fromId": "socialdemokrati",
-              "text": "Vouchersystem i skolan har i internationella studier ökat segregation utan att höja genomsnittlig kvalitet."
+              "text": "Om familjer har olika möjligheter att välja skola, hur skulle ett system med skolpeng kunna påverka elevsammansättning och undervisningens kvalitet?"
             },
             {
               "fromId": "konservatism",
@@ -1590,7 +1596,7 @@ export const ideologies = [
     {
       "id": "brottslighet-overvakning",
       "title": "Hur ska brottslighet bekämpas?",
-      "description": "Sverige har sett ökad gängkriminalitet och skjutningar. Debatten handlar om hårdare straff, mer övervakning, förebyggande insatser – och var gränsen för statens makt går.",
+      "description": "Anta att invånare i Lindvik efterfrågar bättre skydd mot grova våldsbrott. Vilka mål och avvägningar aktualiseras av förebyggande insatser, straff och övervakning?",
       "axis": {
         "left": "Förebyggande & rehabilitering",
         "right": "Straff & kontroll"
@@ -1618,7 +1624,7 @@ export const ideologies = [
           "counterargs": [
             {
               "fromId": "konservatism",
-              "text": "Rehabiliteringsfokus har lett till för korta straff och för tidig frigivning – vilket urholkar brottsoffrets upprättelse."
+              "text": "Hur ska förslaget väga möjligheten till rehabilitering mot proportionalitet och brottsoffrets intresse av upprättelse?"
             },
             {
               "fromId": "libertarianism",
@@ -1691,7 +1697,7 @@ export const ideologies = [
     {
       "id": "klimatomstallningen",
       "title": "Hur ska klimatomställningen genomföras?",
-      "description": "Att utsläppen måste minska är vetenskaplig konsensus. Hur det ska ske – vem som betalar, vilken roll marknaden spelar och hur snabbt – är genuint politiskt.",
+      "description": "Anta att ett land har beslutat om ett utsläppsmål. Vem bör bära kostnaderna, vilka styrmedel kan användas och hur ska resultaten följas upp?",
       "axis": {
         "left": "Statlig styrning & reglering",
         "right": "Marknad & teknikoptimism"
@@ -1700,11 +1706,11 @@ export const ideologies = [
         {
           "ideologyId": "socialism",
           "axisPos": 6,
-          "solution": "Klimatkrisen är kapitalismens kris. Lösningen kräver en demokratisk planering av ekonomin, statliga investeringar i förnybar energi och ett brott med tillväxtlogiken. Marknaden skapade problemet – den kan inte lösa det.",
+          "solution": "En socialistisk företrädare kan föreslå demokratiska beslut om energiinvesteringar och ge utsläppsmålet företräde framför avkastningskrav. Hur får de berörda inflytande över vilka investeringar som väljs?",
           "counterargs": [
             {
               "fromId": "nyliberalism",
-              "text": "Statlig planering av energisystemet har historiskt lett till ineffektivitet och felallokering av resurser."
+              "text": "Hur kan den som beslutar om energiinvesteringarna upptäcka att ett annat projekt skulle ge större utsläppsminskning för samma resurser?"
             },
             {
               "fromId": "libertarianism",
@@ -1730,7 +1736,7 @@ export const ideologies = [
         {
           "ideologyId": "ordoliberalism",
           "axisPos": 46,
-          "solution": "Klimatproblemet är ett sammanflätat misslyckande av marknad, politik och institutioner. Felaktiga subventioner, energislagsfundamentalism och politisk kortsiktighet har förvärrat problemet lika mycket som avsaknaden av korrekt koldioxidprissättning. Lösningen kräver ett robust regelramverk som korrigerar alla snedvridningar – staten sätter spelreglerna, tekniken avgörs av evidens.",
+          "solution": "En ordoliberal företrädare kan föreslå ett pris på utsläpp och gemensamma konkurrensregler för energiproducenter. Hur ska reglerna följas upp om investeringarna inte räcker för att nå utsläppsmålet?",
           "counterargs": [
             {
               "fromId": "socialdemokrati",
@@ -1768,7 +1774,7 @@ export const ideologies = [
             },
             {
               "fromId": "socialism",
-              "text": "Marknaden har haft decennier på sig och utsläppen ökar fortfarande globalt – prismekanismer räcker inte."
+              "text": "Vad händer om utsläppspriset är för lågt eller om investeringarna tar längre tid än vad målet medger?"
             }
           ]
         },
@@ -1792,7 +1798,7 @@ export const ideologies = [
     {
       "id": "eu-suveranitet",
       "title": "Hur mycket makt ska EU ha?",
-      "description": "EU fattar beslut som påverkar svensk lagstiftning, ekonomi och migration. Frågan om hur mycket makt som ska ligga i Bryssel kontra Stockholm är djupt politisk.",
+      "description": "Tankeexperiment: Anta att EU:s medlemsländer diskuterar om fler beslut ska fattas gemensamt. Vilka beslut vill olika företrädare lägga på unionsnivå och vilka vill de behålla nationellt?",
       "axis": {
         "left": "Nationell suveränitet",
         "right": "Europeisk integration"
@@ -1801,7 +1807,7 @@ export const ideologies = [
         {
           "ideologyId": "socialism",
           "axisPos": 20,
-          "solution": "EU är i grunden ett projekt för att skydda kapitalets rörlighet på bekostnad av demokrati och arbetsrätt. Nationella parlament måste återfå makten att reglera ekonomin och välfärden utan att hindras av EU:s konkurrensregler.",
+          "solution": "En socialistisk företrädare kan vilja låta nationella parlament besluta om arbetsrätt och välfärd. Frågan är hur gemensamma konkurrensregler skulle påverka utrymmet för demokratiska beslut om ägande och arbetsvillkor.",
           "counterargs": [
             {
               "fromId": "nyliberalism",
@@ -1839,14 +1845,14 @@ export const ideologies = [
             },
             {
               "fromId": "socialism",
-              "text": "EU-reformer är marginella – strukturen gynnar kapital framför arbete och är svår att förändra inifrån."
+              "text": "Vilket inflytande skulle löntagare ha över de föreslagna reglerna och vilka möjligheter skulle finnas att ändra dem?"
             }
           ]
         },
         {
           "ideologyId": "libertarianism",
           "axisPos": 60,
-          "solution": "Frihandel och öppna gränser är bra – men EU:s byråkrati och regleringsiver är ett problem. En frihandelszon utan politisk överstatlighet vore idealisk. Nationell suveränitet är viktig för att bevara mångfald och konkurrens mellan system.",
+          "solution": "En libertariansk företrädare kan förespråka frihandel och öppna gränser och ifrågasätta hur mycket gemensam reglering det kräver. En frihandelszon utan politisk överstatlighet vore idealisk. Nationell suveränitet är viktig för att bevara mångfald och konkurrens mellan system.",
           "counterargs": [
             {
               "fromId": "socialdemokrati",
@@ -1861,11 +1867,11 @@ export const ideologies = [
         {
           "ideologyId": "ordoliberalism",
           "axisPos": 65,
-          "solution": "EU är i grunden ett ordoliberalt projekt – en gemensam regelstat för att säkerställa rättvis konkurrens och hindra att starka stater eller stora företag snedvrider marknaden. Mer integration på regelverks- och tillsynsnivå är välkommet. Politisk överstatlighet utan institutionell stadga är däremot riskabelt.",
+          "solution": "En ordoliberal företrädare kan föreslå gemensamma konkurrensregler för att begränsa både statliga särförmåner och privata monopol. Mer integration på regelverks- och tillsynsnivå är välkommet. Politisk överstatlighet utan institutionell stadga är däremot riskabelt.",
           "counterargs": [
             {
               "fromId": "konservatism",
-              "text": "EU:s regelproduktion har vuxit långt bortom vad som behövs för rättvis konkurrens – subsidiaritetsprincipen tillämpas inte konsekvent."
+              "text": "Hur kan man avgöra vilka konkurrensfrågor som behöver gemensamma regler och vilka medlemsländerna kan hantera själva?"
             },
             {
               "fromId": "socialism",
@@ -1876,7 +1882,7 @@ export const ideologies = [
         {
           "ideologyId": "nyliberalism",
           "axisPos": 72,
-          "solution": "Den inre marknaden med fri rörlighet för varor, tjänster, kapital och personer är EU:s stora framgång. Mer integration på ekonomins område är välkommet. Politisk överstatlighet är mer problematisk – fokus bör ligga på ekonomisk frihet.",
+          "solution": "En nyliberal företrädare kan prioritera fri rörlighet för varor, tjänster, kapital och personer. Mer integration på ekonomins område är välkommet. Politisk överstatlighet är mer problematisk – fokus bör ligga på ekonomisk frihet.",
           "counterargs": [
             {
               "fromId": "konservatism",
@@ -1903,7 +1909,9 @@ export const ideologies = [
 ```js
 /**
  * lib/strategies.js
- * Data for the strategies page — hur idéer omsätts i mobilisering och makt.
+ * Kursunderlag om hur idéer omsätts i mobilisering och makt.
+ * Exemplen utspelar sig i den fiktiva kommunen Lindvik. Effektkedjorna är
+ * möjliga förlopp att undersöka, och frågorna lämnar utfallet öppet.
  *
  * Varje strategi är ideologiskt neutral i sig: den kan drivas av vänster,
  * höger, gröna eller nationalister. Fältet `vägval` beskriver medvetet två
@@ -1966,8 +1974,7 @@ export const strategies = [
       '"Endast jag/vi representerar det sanna folket"-retorik',
     ],
     exempel: [
-      { rörelse: 'Den amerikanska Populist Party', period: '1890-talet', riktning: 'demokratisk', utfall: 'Drev igenom reformer (bl.a. direktval av senatorer) som senare togs upp av etablerade partier.' },
-      { rörelse: 'Peronismen, Argentina', period: '1940–70-talet', riktning: 'blandad', utfall: 'Breddade fackligt och socialt inflytande, men även perioder av maktkoncentration och tryck på oberoende institutioner.' },
+      { fiktiv_scen: 'En lista i Lindvik vill ordna en folkomröstning om biblioteket och säger att kommunledningen har slutat lyssna på invånarna.', fråga: 'Vad skulle du vilja veta om hur listan bemöter invånare som stöder kommunledningens förslag?' },
     ],
     relaterade: ['polarisering', 'ledarpersonalisering', 'nationalism'],
     color: '#8b3a2a',
@@ -2025,8 +2032,7 @@ export const strategies = [
       'Personliga relationer och samarbete över blockgränser bestraffas socialt',
     ],
     exempel: [
-      { rörelse: 'Ökande affektiv polarisering i amerikansk politik', period: '1990-talet–', riktning: 'auktoritär tendens', utfall: 'Forskning visar sjunkande tillit mellan partianhängare och ökad acceptans för att bryta demokratiska normer för att "vinna".' },
-      { rörelse: 'Brexit-folkomröstningen, Storbritannien', period: '2016', riktning: 'blandad', utfall: 'Tydliggjorde ett verkligt vägval för väljarna, men lämnade efter sig djupa och varaktiga samhällsklyftor.' },
+      { fiktiv_scen: 'Två grupper i Lindvik vill använda samma tomt till en idrottshall respektive bostäder. Båda säger att den andra gruppens förslag vore ett misstag.', fråga: 'Vad skulle skilja en skarp saklig konflikt från ett ifrågasättande av motpartens rätt att delta?' },
     ],
     relaterade: ['populism', 'ledarpersonalisering', 'identitetspolitik'],
     color: '#7a1f2a',
@@ -2084,8 +2090,7 @@ export const strategies = [
       'Andra politiska skiljelinjer avfärdas kategoriskt som distraktion',
     ],
     exempel: [
-      { rörelse: 'Den svenska fackföreningsrörelsen och Saltsjöbadsavtalet', period: '1930-talet–', riktning: 'demokratisk', utfall: 'Institutionaliserad förhandling mellan arbete och kapital inom en pluralistisk ram.' },
-      { rörelse: 'Enpartistaten i Sovjetunionen, motiverad med arbetarklassens intresse', period: '1920–1980-talet', riktning: 'auktoritär', utfall: 'Klassretorik användes för att motivera att all organiserad opposition förbjöds.' },
+      { fiktiv_scen: 'Anställda på flera arbetsplatser i Lindvik bildar en förening för att förhandla om arbetstider. Medlemmarna har olika önskemål om kvällsarbete.', fråga: 'Hur skulle föreningen kunna företräda ett gemensamt intresse och samtidigt ge utrymme för olika önskemål?' },
     ],
     relaterade: ['identitetspolitik', 'triangulering', 'populism'],
     color: '#9f1239',
@@ -2143,8 +2148,7 @@ export const strategies = [
       'Minoriteters rättigheter beskrivs som eftergifter snarare än grundläggande rättigheter',
     ],
     exempel: [
-      { rörelse: 'Efterkrigstidens nationsbygge i flera europeiska demokratier', period: '1945–1970-talet', riktning: 'demokratisk', utfall: 'Nationell sammanhållning användes för att bygga breda välfärdsstater över klassgränser.' },
-      { rörelse: 'Etnisk nationalism i f.d. Jugoslavien', period: '1990-talet', riktning: 'auktoritär', utfall: 'Exkluderande definition av tillhörighet bidrog till väpnad konflikt och etnisk rensning.' },
+      { fiktiv_scen: 'Inför en nationell högtid föreslår invånare i Lindvik en ceremoni om vad som förenar landets medborgare. Programmet är ännu öppet.', fråga: 'Vilken betydelse skulle det få för deltagandet om gemenskapen beskrivs genom medborgarskap, språk eller gemensamma erfarenheter?' },
     ],
     relaterade: ['populism', 'identitetspolitik', 'ledarpersonalisering'],
     color: '#7a5a3a',
@@ -2202,8 +2206,7 @@ export const strategies = [
       'Gemensamma institutioner anses per definition ogiltiga om de inte proportionerligt speglar gruppindelningen',
     ],
     exempel: [
-      { rörelse: 'Medborgarrättsrörelsen i USA', period: '1950–60-talet', riktning: 'demokratisk', utfall: 'Breddade medborgerliga och politiska rättigheter genom organisering och lagstiftning, inom en pluralistisk ram.' },
-      { rörelse: 'Interna uppgörelser om representation inom identitetsbaserade rörelser', period: '2000-talet–', riktning: 'blandad', utfall: 'Har i vissa fall lett till intern fragmentering och minskad politisk genomslagskraft.' },
+      { fiktiv_scen: 'En förening för personer med funktionsnedsättning får lämna synpunkter på Lindviks nya resecentrum. Några medlemmar prioriterar orienterbarhet, andra framkomlighet.', fråga: 'Hur kan gruppens gemensamma erfarenheter och medlemmarnas olika prioriteringar bli synliga i förslaget?' },
     ],
     relaterade: ['klasspolitik', 'polarisering', 'nationalism'],
     color: '#5a3f9f',
@@ -2261,8 +2264,7 @@ export const strategies = [
       'Kritik av expertbeslut bemöts med att kritikern saknar rätt att ha en åsikt snarare än med sakargument',
     ],
     exempel: [
-      { rörelse: 'Oberoende centralbanker med tydligt demokratiskt mandat', period: '1990-talet–', riktning: 'demokratisk', utfall: 'Ökad trovärdighet i penningpolitiken inom en ram beslutad av folkvalda.' },
-      { rörelse: 'Teknokratiska övergångsregeringar utan brett förankrat mandat', period: '2010-talet, flera länder', riktning: 'blandad', utfall: 'Kunde hantera akuta kriser men väckte frågor om demokratisk legitimitet.' },
+      { fiktiv_scen: 'Lindviks fullmäktige ber experter jämföra två lägen för ett reningsverk. Det ena har lägre beräknad kostnad, det andra ligger längre från bostäder.', fråga: 'Vilka delar kan experterna undersöka och vem ska avgöra hur kostnad och närhet till bostäder vägs mot varandra?' },
     ],
     relaterade: ['triangulering', 'ledarpersonalisering'],
     color: '#3f6f8f',
@@ -2320,8 +2322,7 @@ export const strategies = [
       'Den egna kärnväljarbasen krymper snabbare än mittenväljarna växer',
     ],
     exempel: [
-      { rörelse: '"Tredje vägen"-politik i Storbritannien och USA', period: '1990-talet', riktning: 'demokratisk', utfall: 'Breddade valframgångar genom pragmatisk mittenpositionering, men kritiserades senare för otydlig profil.' },
-      { rörelse: 'Etablerade partiers programmatiska konvergens i flera europeiska demokratier', period: '2000–2010-talet', riktning: 'blandad', utfall: 'Sammanföll i flera fall med framväxten av nya populistiska utmanare som mobiliserade missnöjet.' },
+      { fiktiv_scen: 'En grupp i Lindvik vill kombinera sitt förslag om fler busslinjer med en annan grupps förslag om ett utgiftstak.', fråga: 'Vad behöver grupperna redovisa för att invånarna ska kunna bedöma kompromissen?' },
     ],
     relaterade: ['teknokrati', 'populism'],
     color: '#2f7b7b',
@@ -2379,8 +2380,7 @@ export const strategies = [
       'Det finns ingen tydlig, etablerad ordning för ledarskifte',
     ],
     exempel: [
-      { rörelse: 'Ordnade ledarskiften inom etablerade partier med tydliga stadgar', period: 'Återkommande i parlamentariska demokratier', riktning: 'demokratisk', utfall: 'Ledare byts ut utan att partiets eller landets institutioner destabiliseras.' },
-      { rörelse: 'Personkult kring enskilda ledare i flera 1900-talsregimer', period: '1900-talet', riktning: 'auktoritär', utfall: 'Institutioner underordnades en enskild persons auktoritet, vilket gjorde maktöverföring instabil och konfliktfylld.' },
+      { fiktiv_scen: 'En förening i Lindvik låter sin ordförande ensam presentera styrelsens bostadsförslag. Medlemmarna kan läsa stadgarna och mötesprotokollet.', fråga: 'Vilka uppgifter skulle hjälpa dig avgöra vem som syns och vem som faktiskt kan ändra beslutet?' },
     ],
     relaterade: ['populism', 'teknokrati', 'nationalism'],
     color: '#6b4c2a',
@@ -2438,8 +2438,7 @@ export const strategies = [
       'Oberoende kontrollmyndigheter bemannas efter lojalitet snarare än kompetens',
     ],
     exempel: [
-      { rörelse: 'Amerikanska "political machines" i storstäder', period: 'Sent 1800-tal–tidigt 1900-tal', riktning: 'blandad', utfall: 'Gav nyanlända invandrargrupper jobb och socialt skyddsnät som formella institutioner saknade, men byggde samtidigt på utbredd korruption.' },
-      { rörelse: 'Patronagesystem i enpartistater under 1900-talet', period: '1900-talet', riktning: 'auktoritär', utfall: 'Statliga resurser blev ett verktyg för att belöna lojalitet och straffa oliktänkande, vilket bidrog till att permanenta enpartistyre.' },
+      { fiktiv_scen: 'Två föreningar söker bidrag ur samma pott i Lindvik. En företrädare antyder att offentligt stöd för hans grupp kan påverka tilldelningen.', fråga: 'Hur skulle du undersöka om beslutet följer bidragskriterierna eller görs beroende av politisk lojalitet?' },
     ],
     relaterade: ['triangulering', 'ledarpersonalisering', 'klasspolitik'],
     color: '#8a6d1f',

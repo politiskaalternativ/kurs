@@ -1,6 +1,8 @@
 /**
  * lib/strategies.js
- * Data for the strategies page — hur idéer omsätts i mobilisering och makt.
+ * Kursunderlag om hur idéer omsätts i mobilisering och makt.
+ * Exemplen utspelar sig i den fiktiva kommunen Lindvik. Effektkedjorna är
+ * möjliga förlopp att undersöka, och frågorna lämnar utfallet öppet.
  *
  * Varje strategi är ideologiskt neutral i sig: den kan drivas av vänster,
  * höger, gröna eller nationalister. Fältet `vägval` beskriver medvetet två
@@ -63,8 +65,7 @@ export const strategies = [
       '"Endast jag/vi representerar det sanna folket"-retorik',
     ],
     exempel: [
-      { rörelse: 'Den amerikanska Populist Party', period: '1890-talet', riktning: 'demokratisk', utfall: 'Drev igenom reformer (bl.a. direktval av senatorer) som senare togs upp av etablerade partier.' },
-      { rörelse: 'Peronismen, Argentina', period: '1940–70-talet', riktning: 'blandad', utfall: 'Breddade fackligt och socialt inflytande, men även perioder av maktkoncentration och tryck på oberoende institutioner.' },
+      { fiktiv_scen: 'En lista i Lindvik vill ordna en folkomröstning om biblioteket och säger att kommunledningen har slutat lyssna på invånarna.', fråga: 'Vad skulle du vilja veta om hur listan bemöter invånare som stöder kommunledningens förslag?' },
     ],
     relaterade: ['polarisering', 'ledarpersonalisering', 'nationalism'],
     color: '#8b3a2a',
@@ -122,8 +123,7 @@ export const strategies = [
       'Personliga relationer och samarbete över blockgränser bestraffas socialt',
     ],
     exempel: [
-      { rörelse: 'Ökande affektiv polarisering i amerikansk politik', period: '1990-talet–', riktning: 'auktoritär tendens', utfall: 'Forskning visar sjunkande tillit mellan partianhängare och ökad acceptans för att bryta demokratiska normer för att "vinna".' },
-      { rörelse: 'Brexit-folkomröstningen, Storbritannien', period: '2016', riktning: 'blandad', utfall: 'Tydliggjorde ett verkligt vägval för väljarna, men lämnade efter sig djupa och varaktiga samhällsklyftor.' },
+      { fiktiv_scen: 'Två grupper i Lindvik vill använda samma tomt till en idrottshall respektive bostäder. Båda säger att den andra gruppens förslag vore ett misstag.', fråga: 'Vad skulle skilja en skarp saklig konflikt från ett ifrågasättande av motpartens rätt att delta?' },
     ],
     relaterade: ['populism', 'ledarpersonalisering', 'identitetspolitik'],
     color: '#7a1f2a',
@@ -181,8 +181,7 @@ export const strategies = [
       'Andra politiska skiljelinjer avfärdas kategoriskt som distraktion',
     ],
     exempel: [
-      { rörelse: 'Den svenska fackföreningsrörelsen och Saltsjöbadsavtalet', period: '1930-talet–', riktning: 'demokratisk', utfall: 'Institutionaliserad förhandling mellan arbete och kapital inom en pluralistisk ram.' },
-      { rörelse: 'Enpartistaten i Sovjetunionen, motiverad med arbetarklassens intresse', period: '1920–1980-talet', riktning: 'auktoritär', utfall: 'Klassretorik användes för att motivera att all organiserad opposition förbjöds.' },
+      { fiktiv_scen: 'Anställda på flera arbetsplatser i Lindvik bildar en förening för att förhandla om arbetstider. Medlemmarna har olika önskemål om kvällsarbete.', fråga: 'Hur skulle föreningen kunna företräda ett gemensamt intresse och samtidigt ge utrymme för olika önskemål?' },
     ],
     relaterade: ['identitetspolitik', 'triangulering', 'populism'],
     color: '#9f1239',
@@ -240,8 +239,7 @@ export const strategies = [
       'Minoriteters rättigheter beskrivs som eftergifter snarare än grundläggande rättigheter',
     ],
     exempel: [
-      { rörelse: 'Efterkrigstidens nationsbygge i flera europeiska demokratier', period: '1945–1970-talet', riktning: 'demokratisk', utfall: 'Nationell sammanhållning användes för att bygga breda välfärdsstater över klassgränser.' },
-      { rörelse: 'Etnisk nationalism i f.d. Jugoslavien', period: '1990-talet', riktning: 'auktoritär', utfall: 'Exkluderande definition av tillhörighet bidrog till väpnad konflikt och etnisk rensning.' },
+      { fiktiv_scen: 'Inför en nationell högtid föreslår invånare i Lindvik en ceremoni om vad som förenar landets medborgare. Programmet är ännu öppet.', fråga: 'Vilken betydelse skulle det få för deltagandet om gemenskapen beskrivs genom medborgarskap, språk eller gemensamma erfarenheter?' },
     ],
     relaterade: ['populism', 'identitetspolitik', 'ledarpersonalisering'],
     color: '#7a5a3a',
@@ -299,8 +297,7 @@ export const strategies = [
       'Gemensamma institutioner anses per definition ogiltiga om de inte proportionerligt speglar gruppindelningen',
     ],
     exempel: [
-      { rörelse: 'Medborgarrättsrörelsen i USA', period: '1950–60-talet', riktning: 'demokratisk', utfall: 'Breddade medborgerliga och politiska rättigheter genom organisering och lagstiftning, inom en pluralistisk ram.' },
-      { rörelse: 'Interna uppgörelser om representation inom identitetsbaserade rörelser', period: '2000-talet–', riktning: 'blandad', utfall: 'Har i vissa fall lett till intern fragmentering och minskad politisk genomslagskraft.' },
+      { fiktiv_scen: 'En förening för personer med funktionsnedsättning får lämna synpunkter på Lindviks nya resecentrum. Några medlemmar prioriterar orienterbarhet, andra framkomlighet.', fråga: 'Hur kan gruppens gemensamma erfarenheter och medlemmarnas olika prioriteringar bli synliga i förslaget?' },
     ],
     relaterade: ['klasspolitik', 'polarisering', 'nationalism'],
     color: '#5a3f9f',
@@ -358,8 +355,7 @@ export const strategies = [
       'Kritik av expertbeslut bemöts med att kritikern saknar rätt att ha en åsikt snarare än med sakargument',
     ],
     exempel: [
-      { rörelse: 'Oberoende centralbanker med tydligt demokratiskt mandat', period: '1990-talet–', riktning: 'demokratisk', utfall: 'Ökad trovärdighet i penningpolitiken inom en ram beslutad av folkvalda.' },
-      { rörelse: 'Teknokratiska övergångsregeringar utan brett förankrat mandat', period: '2010-talet, flera länder', riktning: 'blandad', utfall: 'Kunde hantera akuta kriser men väckte frågor om demokratisk legitimitet.' },
+      { fiktiv_scen: 'Lindviks fullmäktige ber experter jämföra två lägen för ett reningsverk. Det ena har lägre beräknad kostnad, det andra ligger längre från bostäder.', fråga: 'Vilka delar kan experterna undersöka och vem ska avgöra hur kostnad och närhet till bostäder vägs mot varandra?' },
     ],
     relaterade: ['triangulering', 'ledarpersonalisering'],
     color: '#3f6f8f',
@@ -417,8 +413,7 @@ export const strategies = [
       'Den egna kärnväljarbasen krymper snabbare än mittenväljarna växer',
     ],
     exempel: [
-      { rörelse: '"Tredje vägen"-politik i Storbritannien och USA', period: '1990-talet', riktning: 'demokratisk', utfall: 'Breddade valframgångar genom pragmatisk mittenpositionering, men kritiserades senare för otydlig profil.' },
-      { rörelse: 'Etablerade partiers programmatiska konvergens i flera europeiska demokratier', period: '2000–2010-talet', riktning: 'blandad', utfall: 'Sammanföll i flera fall med framväxten av nya populistiska utmanare som mobiliserade missnöjet.' },
+      { fiktiv_scen: 'En grupp i Lindvik vill kombinera sitt förslag om fler busslinjer med en annan grupps förslag om ett utgiftstak.', fråga: 'Vad behöver grupperna redovisa för att invånarna ska kunna bedöma kompromissen?' },
     ],
     relaterade: ['teknokrati', 'populism'],
     color: '#2f7b7b',
@@ -476,8 +471,7 @@ export const strategies = [
       'Det finns ingen tydlig, etablerad ordning för ledarskifte',
     ],
     exempel: [
-      { rörelse: 'Ordnade ledarskiften inom etablerade partier med tydliga stadgar', period: 'Återkommande i parlamentariska demokratier', riktning: 'demokratisk', utfall: 'Ledare byts ut utan att partiets eller landets institutioner destabiliseras.' },
-      { rörelse: 'Personkult kring enskilda ledare i flera 1900-talsregimer', period: '1900-talet', riktning: 'auktoritär', utfall: 'Institutioner underordnades en enskild persons auktoritet, vilket gjorde maktöverföring instabil och konfliktfylld.' },
+      { fiktiv_scen: 'En förening i Lindvik låter sin ordförande ensam presentera styrelsens bostadsförslag. Medlemmarna kan läsa stadgarna och mötesprotokollet.', fråga: 'Vilka uppgifter skulle hjälpa dig avgöra vem som syns och vem som faktiskt kan ändra beslutet?' },
     ],
     relaterade: ['populism', 'teknokrati', 'nationalism'],
     color: '#6b4c2a',
@@ -535,8 +529,7 @@ export const strategies = [
       'Oberoende kontrollmyndigheter bemannas efter lojalitet snarare än kompetens',
     ],
     exempel: [
-      { rörelse: 'Amerikanska "political machines" i storstäder', period: 'Sent 1800-tal–tidigt 1900-tal', riktning: 'blandad', utfall: 'Gav nyanlända invandrargrupper jobb och socialt skyddsnät som formella institutioner saknade, men byggde samtidigt på utbredd korruption.' },
-      { rörelse: 'Patronagesystem i enpartistater under 1900-talet', period: '1900-talet', riktning: 'auktoritär', utfall: 'Statliga resurser blev ett verktyg för att belöna lojalitet och straffa oliktänkande, vilket bidrog till att permanenta enpartistyre.' },
+      { fiktiv_scen: 'Två föreningar söker bidrag ur samma pott i Lindvik. En företrädare antyder att offentligt stöd för hans grupp kan påverka tilldelningen.', fråga: 'Hur skulle du undersöka om beslutet följer bidragskriterierna eller görs beroende av politisk lojalitet?' },
     ],
     relaterade: ['triangulering', 'ledarpersonalisering', 'klasspolitik'],
     color: '#8a6d1f',

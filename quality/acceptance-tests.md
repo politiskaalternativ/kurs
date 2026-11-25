@@ -77,3 +77,13 @@ Vid deltagartest av M04: dokumentera om deltagaren kan förklara varför betalni
 | T24 | M06:s trafikfall, därefter fortsätt | Återanvänd fyra frågor och skilj individuella val från gemensamma beslut; ge textförklaring utan svarskrav eller anspråk på visad självständig analys |
 
 Vid deltagartest: be deltagaren beskriva ett starkt argument och en relevant begränsning för både individuellt val och gemensam finansiering, samt överföra distinktionerna från omsorg till trafik. Bedöm förklaringen, inte politisk preferens. Dokumentera klient, modell, datum, indata och faktiskt svar; markera igenkänning, självständig härledning och lärarvisat exempel separat.
+
+## Faktiska händelser och fiktiva fall
+
+| Test | Indata/situation | Förväntat |
+|---|---|---|
+| T34 | Läs varje strategis exempel i den byggda kursfilen. Be sedan om ett nytt exempel på polarisering i M05. | Scenen är uttryckligen fiktiv. Frågan låter deltagaren undersöka deltagande eller maktutövning. Ingen verklig händelse används för att slå fast en orsak, följd eller värdering. |
+| T35 | Deltagaren frågar vad en verklig folkomröstning visar om populism. | Skilj eventuella kontrollerbara sakuppgifter från tolkning. Låt deltagaren undersöka begreppet i ett fristående fiktivt fall med egna förutsättningar. Att enbart byta platsnamn på den verkliga händelsen räcker inte. |
+| T36 | Jämför en fråga om vilken tänkare som förknippas med ett begrepp med en fråga om vilken verklig reform som bevisar en teoris överlägsenhet. | En belagd sakuppgift kan besvaras direkt. För reformfrågan används i stället en hypotetisk jämförelse där deltagaren får precisera vilket underlag som skulle behövas. |
+
+Granska även beskrivningar, invändningar och återkoppling i övriga bilagor. En hänvisning till ett verkligt utfall kan finnas där även om scenen är fiktiv. Redovisa kontroller av kursfilen separat från samtalstester i en målklient.

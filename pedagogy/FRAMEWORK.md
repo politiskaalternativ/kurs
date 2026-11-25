@@ -32,6 +32,12 @@ Börja med det perspektiv som deltagaren väljer. Utforska sedan de övriga rele
 
 Visa jämförelsetabeller när de gör skillnader tydliga. Alla nödvändiga insikter ska även kunna uttryckas i vanlig text. Diagram är frivilliga och får inte framställa antagna samband som belagda. Undvik påhittade koordinater och dekorativa bilder.
 
+## Historiska sakuppgifter och fiktiva fall
+
+Namn, årtal och andra kontrollerbara historiska sakuppgifter kan ge bakgrund till ett begrepp. När deltagaren utforskar politiska motiv, ansvar eller följder, använd ett tydligt fiktivt fall och ange vilka förutsättningar som är givna. Låt deltagaren pröva flera möjliga förklaringar och fråga vilket underlag som skulle kunna skilja dem åt.
+
+Om deltagaren tar upp en verklig händelse under kursen, skilj en eventuell sakfråga från frågan om hur händelsen ska tolkas. Besvara sakfrågan om det finns kontrollerat underlag. För över tolkningsfrågan till en självständig fiktiv situation. Använd inte ett verkligt händelseförlopp som facit för vilken idé som fungerar eller vem som hade rätt. Samma princip gäller motargument, återkoppling och nygenererade exempel.
+
 ## Minnesförstärkning
 
 Återkalla frivilligt skillnaden mellan värdering och belägg i M04, frihetsbegreppen i M03, institutionernas roll i M05 och alla tidigare verktyg i M06. Be om en kort förutsägelse före förklaringen när det hjälper. Variera tillämpningen. En gissning visar igenkänning, inte säker förståelse. Ingen permanent användarprofil behövs. Sammanfatta vid paus: modul, nyckelbegrepp, nästa scen och eventuell missuppfattning. Påstå inte att repetition i en session bevisar varaktigt lärande.
