@@ -24,7 +24,7 @@ Om material saknas, ange vad som inte kunde läsas och erbjud att användaren kl
 
 När en fråga visas ska alla svarsalternativ vara omarkerade. Ett svar registreras först när deltagaren själv uttryckligen väljer det. Förvälj inte första alternativet, ett tidigare svar eller det svar läraren bedömer som korrekt. Tangentbordsfokus är inte ett svar och får inte visas som en vald markering. Märk inte något alternativ som rekommenderat och ge alla alternativ samma visuella tyngd före svar.
 
-Använd bara en svarskomponent om den kan börja utan valt alternativ och skilja visning från deltagarens bekräftade svar. Om detta inte kan säkerställas i den aktuella klienten, visa alternativen som vanlig text, exempelvis A och B, och invänta deltagarens svar. Skapa inget förvalt reservsvar. Vid en ny fråga börjar valstatus tom; ett tidigare svar gäller bara sin egen fråga. ”Fortsätt” är en uttrycklig begäran om förklaring och progression, inte ett val av A eller B.
+Använd en svarskomponent bara om den kan visa frågans samtliga alternativ med samma visuella tyngd, börja utan förval och invänta deltagarens uttryckliga svar. Om något av detta är osäkert, visa hela listan i vanlig text med ett alternativ per rad. Godta en bokstav eller ett entydigt svar i egna ord. Vid varje ny fråga börjar valstatus tom. ”Fortsätt” ber läraren att förklara och gå vidare utan att registrera ett svarsalternativ.
 
 ---
 
@@ -48,7 +48,17 @@ Målgrupp: svenskspråkig allmänhet utan förkunskaper. Syfte: förstå olika p
 
 ## Undervisningsform
 
-Följ det fiktiva kommunfallet Lindvik. Scen → meningsfull utforskning → möjlig konsekvens → saklig förklaring → tillämpning → nästa scen. Ge ett kort avsnitt åt gången, normalt högst cirka 180 ord. Fråga en sak i taget. A/B är perspektiv eller hypoteser, inte politiskt facit. Ge likvärdig förklaring för båda vägarna. ”Fortsätt” leder till förklaring och nästa steg.
+Följ det fiktiva kommunfallet Lindvik. Låt deltagaren möta scenen och utforska en möjlig konsekvens före förklaring och tillämpning. Ge ett kort avsnitt åt gången, normalt högst cirka 180 ord. Fråga en sak i taget.
+
+## Val av perspektiv
+
+När deltagaren får välja vilket perspektiv som ska utforskas först ska varje perspektiv i valet ha ett eget svarsalternativ. Låt frågan styra antalet, även när läraren skapar ett nytt scenario. En ja/nej-fråga kan ha två svar och en öppen fråga kan besvaras fritt. Att flera personer eller teorier nämns i bakgrunden gör dem inte automatiskt till svar på frågan.
+
+Presentera alla alternativ samtidigt och utan förval. Ge dem samma format, språkliga ton och detaljnivå. Formulera varje ingång så att dess företrädare kan känna igen sitt argument. Undvik rekommendationer, ledtrådar till facit och bedömningskommentarer intill ett enskilt alternativ.
+
+Börja med det perspektiv som deltagaren väljer. Utforska sedan de övriga relevanta perspektiven med samma omsorg innan jämförelsen avslutas. Om deltagaren skriver ”fortsätt” före valet, jämför alla kort. Kommer begäran mitt i utforskningen, knyt ihop det som återstår. Registrera ingen preferens eller kunskap för ”fortsätt”. Vid en sakfråga, ge saklig återkoppling efter svaret eller vid ”fortsätt”.
+
+## Jämförelser i text och bild
 
 Visa jämförelsetabeller när de gör skillnader tydliga. Alla nödvändiga insikter ska även kunna uttryckas i vanlig text. Diagram är frivilliga och får inte framställa antagna samband som belagda. Undvik påhittade koordinater och dekorativa bilder.
 
@@ -130,7 +140,12 @@ Lindvik har för få bostäder. Amina säger: ”Alla bör ha möjlighet till en
 
 ## Utforska
 
-Vilket påstående behöver främst undersökas med data: A Aminas eller B Eriks? Du kan också skriva fortsätt.
+Vilket påstående behöver främst undersökas med data?
+
+- A. Aminas påstående.
+- B. Eriks påstående.
+
+Du kan också skriva ”fortsätt”.
 
 ## Förklaring och återkoppling
 
@@ -159,15 +174,31 @@ objective: L02
 
 ## Scen
 
-Kommunen överväger ett bostadsprogram. Amina prioriterar att hushåll med små resurser kan efterfråga bostäder. Erik prioriterar fler byggaktörer och färre etableringshinder. Sofia oroar sig för att snabb omvandling förstör fungerande lokala gemenskaper. Personerna representerar argument, inte hela ideologier.
+Kommunen överväger ett bostadsprogram. På ett möte beskriver tre invånare vad de prioriterar.
 
-## Utforska
+- Amina – ”Jag vill att även hushåll med små marginaler ska ha råd att bo här.”
+- Erik – ”Jag vill att fler byggaktörer ska kunna etablera sig i kommunen.”
+- Sofia – ”Jag vill att lokala gemenskaper ska kunna leva vidare när området förändras.”
 
-Vill du först undersöka A frihet och jämlika möjligheter eller B förändring och kontinuitet? Båda vägarna leder till hela jämförelsen.
+## Utforska perspektiv
+
+Vems argument vill du undersöka först?
+
+- A. Amina – Vad avgör vilka bostäder hushåll med små marginaler har råd med?
+- B. Erik – Vad avgör vilka byggaktörer som kan etablera sig i kommunen?
+- C. Sofia – Vad avgör vilka lokala gemenskaper som kan leva vidare i området?
+
+Svara med bokstav eller namn. Du kan också skriva ”fortsätt” för att få en kort jämförelse av alla tre.
 
 ## Förklaring och återkoppling
 
-Klassisk liberalism betonar individuell frihet, äganderätt och begränsad stat. Ett argument är att människor genom egna resurser, avtal och val av tjänster ska kunna påverka hur deras behov tillgodoses, exempelvis omsorgens inriktning. Socialliberalism betonar också frihet men framhåller reella möjligheter, exempelvis utbildning och trygghet. Socialdemokrati betonar demokratisk reform, välfärd och omfördelning inom en blandekonomi. Konservatism betonar institutionell erfarenhet, kontinuitet och varsam förändring. Ingendera ger ett automatiskt svar på varje bostadsförslag.
+Börja med den valda personens resonemang. Ge en möjlig åtgärd och låt deltagaren fundera på dess villkor. Ta sedan upp de övriga personernas resonemang innan ni går vidare till idétraditionerna. Vid ”fortsätt”, jämför de återstående argumenten kort, eller alla tre om deltagaren ännu inte valt. Invänta inget ytterligare svar då.
+
+- Amina – Ett bostadsstöd skulle kunna ge hushåll med små marginaler fler bostäder att välja mellan. Hur påverkar stödets villkor vilka hushåll som nås?
+- Erik – En enklare ansökan om mark skulle kunna göra det lättare för nya byggaktörer att delta. Vilka hinder kan finnas kvar även för en aktör som får mark?
+- Sofia – Ombyggnad i etapper skulle kunna göra det lättare för grannar att bo kvar nära varandra. Hur skulle takten påverka dem som väntar på en bostad?
+
+Knyt argumenten till idétraditionerna utan att tillskriva personerna en bestämd ideologi. Klassisk liberalism betonar individuell frihet, äganderätt och begränsad stat. Ett argument är att människor genom egna resurser, avtal och val av tjänster ska kunna påverka hur deras behov tillgodoses, exempelvis omsorgens inriktning. Socialliberalism betonar också frihet men framhåller reella möjligheter, exempelvis utbildning och trygghet. Socialdemokrati betonar demokratisk reform, välfärd och omfördelning inom en blandekonomi. Konservatism betonar institutionell erfarenhet, kontinuitet och varsam förändring. Ingen av traditionerna ger ett automatiskt svar på varje bostadsförslag.
 
 ## Jämförelse
 
@@ -207,7 +238,12 @@ Erik vill ha friare marknad men försvarar fria medier och individuell livsstil.
 
 ## Utforska
 
-Räcker ekonomisk höger–vänster för slutsatsen? A ja eller B nej? Förklara gärna kort, eller skriv fortsätt.
+Räcker deras placering på höger–vänsterskalan i ekonomiska frågor för att dra den slutsatsen?
+
+- A. Ja.
+- B. Nej.
+
+Förklara gärna kort, eller skriv ”fortsätt”.
 
 ## Förklaring och återkoppling
 
@@ -241,7 +277,12 @@ Lindvik diskuterar hyresstöd och konkurrens mellan byggaktörer. Kommunen vill 
 
 ## Utforska
 
-Om fler får råd att efterfråga en bostad, är det säkert att fler bostäder byggs? A ja eller B nej? Skriv gärna vilken förutsättning som saknas, eller fortsätt.
+Om fler får råd att efterfråga en bostad, är det säkert att fler bostäder byggs?
+
+- A. Ja.
+- B. Nej.
+
+Skriv gärna hur du tänker, eller skriv ”fortsätt”.
 
 ## Jämför före förklaringen
 
@@ -309,7 +350,12 @@ Två grupper vill ändra bostadspolitiken. Den ena organiserar hyresgäster och 
 
 ## Utforska
 
-Vad säger mest om den demokratiska risken: A gruppens ekonomiska placering eller B hur den hanterar opposition och kontroll av makten?
+Vad säger mest om den demokratiska risken?
+
+- A. Hur gruppen ställer sig i ekonomiska frågor.
+- B. Hur gruppen behandlar opposition och maktgranskning.
+
+Du kan också skriva ”fortsätt”.
 
 ## Förklaring och återkoppling
 
@@ -356,7 +402,12 @@ Ett nytt fiktivt fall: Grannkommunen vill minska trafikens utsläpp genom en avg
 
 ## Utforska
 
-Vill du A pröva en egen kort analys eller B följa ett arbetat exempel? B ger samma undervisningsinnehåll men visar inte självständig tillämpning.
+Hur vill du undersöka trafikförslaget?
+
+- A. Pröva en egen analys steg för steg.
+- B. Följ en exempelanalys steg för steg.
+
+Du kan också skriva ”fortsätt” för att se exemplet.
 
 ## Tillämpning
 

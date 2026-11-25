@@ -6,7 +6,7 @@ Mål: ChatGPT och Claude i vanlig webb-/mobilchatt. API, Claude Code och andra a
 |---|---|---|---|
 | Hämta webbinnehåll | documented; beror på verktyg, plan och inställningar | documented; web fetch vid länk med webbtillgång | Klistra in COURSE.md |
 | Starta från enbart domän | unknown, inte sluttestat | unknown, inte sluttestat | Kopierbar uttrycklig kursbegäran |
-| A/B/fortsätt i vanlig text | utformat, inte sluttestat i ny chatt | utformat, inte sluttestat | Samma text |
+| Frågans samtliga alternativ och ”fortsätt” i vanlig text | utformat, inte sluttestat i ny chatt | utformat, inte sluttestat | Samma text |
 | Tabeller | Markdown-underlag finns, renderingen inte plattformstestad | Markdown-underlag finns, renderingen inte plattformstestad | Läs raderna som text |
 | Widgets/diagram | unknown och inte nödvändigt | unknown och inte nödvändigt | Text och jämförelser |
 
@@ -29,3 +29,7 @@ Officiell dokumentation kontrollerad på nytt: OpenAI:s capabilities overview ov
 ## Val och inflytande – uppföljning 2026-11-07
 
 OpenAI:s capabilities overview och Claudes web search-dokument ovan öppnades på nytt vid denna ändring; samma dokumenterade villkor och datum som uppföljningen ovan. Inga nya plattformsfunktioner används: jämförelserna är vanlig text/tabeller med löptext som reserv. Nya konsumentchattar och mobilrendering för T19–T24 är inte testade. Dokumentkontroll är inte ett acceptanstest.
+
+## Perspektivval 2026-11-25
+
+M02 kan genomföras helt i text med bokstav, namn eller ”fortsätt”. Vid en svarskomponent som begränsar antalet alternativ används hela textlistan. Ovanstående dokumentationssidor kontrollerades på nytt. Stöd för en komponent med tre omarkerade val är fortfarande oprövat i målklienterna. Se [genomförda kontroller och återstående klienttester](perspektivval.md).
