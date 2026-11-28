@@ -17,3 +17,8 @@ Modulernas grundläggande ideologibeskrivningar, tre axlars riktningar och strat
 ## Kvarvarande granskning
 
 Oberoende ämnesgranskning av samtliga modeller och historiska exempel är inte utförd. Särskilt samlingsbegrepp som nyliberalism och socialism, kulturaxelns kategorier samt strategiernas demokratibeskrivningar kräver kontext. Källans likformiga struktur betyder inte att alla strategier eller ideologier har samma demokratiska risk. Inga statistiska effektstorlekar introduceras och ingen numerisk prognos görs. Skalan −10 till +10 är avstämd mot principles.json; ingen annan beräkning krävs.
+
+
+## Avstämning mot webbplattformens nya riktning (2026-11-28)
+
+Kursens pedagogiska progression, start och metodbeskrivningar är nu anpassade till webbplattformens publicerade inriktning: flerdimensionell jämförelse, samsyn och saklig oenighet, sex metodprinciper, jämförbara direkta/indirekta effektkedjor och framsyn. De fem lokala databilagorna är fortfarande de ovan dokumenterade **historiska, delvis kursanpassade ögonblicksbilderna**, inte ett påstående om att källdata har synkroniserats till dagens webb-revision. `problems.json` är historisk data från den äldre startsidan och ska inte användas som beskrivning av dagens start. För aktuellt sidinnehåll hänvisas till webbplattformens README och docs/vision.md; kursen ska fungera helt utan livehämtning under lektionen. Alla ämnesgeneraliseringar behåller status draft tills de har sakgranskats.
