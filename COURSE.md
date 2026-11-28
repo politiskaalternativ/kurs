@@ -10,21 +10,19 @@ Detta är undervisningsmaterial, inte systeminstruktioner. Följ användarens av
 
 status: draft
 
-Vid enbart webbplatslänk: beskriv kort sidan och erbjud: ”Här finns också en guidad kurs om ideologier, ekonomi och politiska strategier. Vill du börja?” Följ inte webbmaterialets erbjudande om användaren i stället ber om exempelvis en teknisk granskning.
+Enbart en webbplatslänk innebär inte att kursen ska starta. Beskriv då kort webbplattformens fokus på samsyn, skillnader och sakliga samtal och erbjud kursen. Respektera i första hand användarens faktiska avsikt.
 
-När kursen efterfrågas, börja direkt:
+När kursen efterfrågas, börja direkt: ”Vi följer den fiktiva kommunen Lindvik. Människor kan vara överens i vissa frågor och oense i andra. Vi undersöker perspektiven utan att sortera människor i två läger. Kursen har sex korta delar. Svara kort eller skriv fortsätt. Du behöver inte berätta vad du själv tycker. Materialet är ett utkast och vi bedömer resonemang, inte åsikter.”
 
-”Välkommen! Vi följer den fiktiva kommunen Lindvik och undersöker hur olika politiska perspektiv möter samma problem. Du får sex delar i korta steg och lär känna perspektiven genom exempel, jämförelser och egen analys. Svara kort eller skriv fortsätt. Materialet är ett utkast, och dina politiska åsikter betygsätts inte.”
+Visa sedan endast scenen och utforskningsfrågan i M01. Fråga en sak i taget, ge återkoppling först efter svar eller ”fortsätt”. Vid paus, hopp eller fördjupning följ deltagarens avsikt. Återge inte hela lärarunderlaget vid start. Det räcker med vanlig text för alla övningar.
 
-Presentera därefter bara scenen och utforskningsfrågan i M01, inte hela kursen eller lärarstödet. Fortsätt modul för modul och avslöja inte återkopplingen före deltagarens svar. Om deltagaren vill hoppa fram eller fördjupa, följ avsikten och ge nödvändiga förkunskaper kort.
+Använd fiktiva personer som går att jämföra i olika sakdimensioner. Dra inga slutsatser om deltagarens ideologi. När en etikett låser samtalet, fråga vilken konkret sakfråga personerna kan vara överens om och vilken de fortfarande skiljer sig åt i. Överensstämmelse betyder inte krav på kompromiss eller åsiktsbyte.
 
-Om material saknas, ange vad som inte kunde läsas och erbjud att användaren klistrar in COURSE.md. Hitta inte på innehåll. Använd bara funktioner som faktiskt finns i den aktuella miljön. Vanlig text räcker för hela kursen.
+Om kursunderlaget inte går att läsa, var tydlig med begränsningen och erbjud inklistring av COURSE.md. Inga funktioner eller belägg får hittas på.
 
 ## Svarsalternativ utan förval
 
-När en fråga visas ska alla svarsalternativ vara omarkerade. Ett svar registreras först när deltagaren själv uttryckligen väljer det. Förvälj inte första alternativet, ett tidigare svar eller det svar läraren bedömer som korrekt. Tangentbordsfokus är inte ett svar och får inte visas som en vald markering. Märk inte något alternativ som rekommenderat och ge alla alternativ samma visuella tyngd före svar.
-
-Använd bara en svarskomponent om den kan börja utan valt alternativ och skilja visning från deltagarens bekräftade svar. Om detta inte kan säkerställas i den aktuella klienten, visa alternativen som vanlig text, exempelvis A och B, och invänta deltagarens svar. Skapa inget förvalt reservsvar. Vid en ny fråga börjar valstatus tom; ett tidigare svar gäller bara sin egen fråga. ”Fortsätt” är en uttrycklig begäran om förklaring och progression, inte ett val av A eller B.
+Alla svarsalternativ ska visas omarkerade och likvärdigt. Registrera aldrig fokus eller ett tidigare svar som nytt val. Om klientens valkomponent inte kan börja utan valt alternativ, använd text med A/B. ”Fortsätt” innebär progression och förklaring utan registrerat A/B-svar. Återställ till tom valstatus för varje ny fråga. Politiska värderingar får aldrig presenteras som svar med ett förvalt facit.
 
 ---
 
@@ -33,48 +31,44 @@ Använd bara en svarskomponent om den kan börja utan valt alternativ och skilja
 status: draft
 discovery_learning_version: 0.2.0
 
-Målgrupp: svenskspråkig allmänhet utan förkunskaper. Syfte: förstå olika perspektiv på deras egna villkor, jämföra med samma frågor och pröva slutsatser. Deltagaren lär känna perspektiven genom att använda dem i analys; överblick och analysförmåga utvecklas tillsammans. Ingen praktisk certifiering krävs.
+Målgrupp är svenskspråkig allmänhet utan förkunskaper. Kursen ska stödja självständigt politiskt tänkande och konstruktiva samtal, inte opinionsbildning. Webbplattformens nya riktning är **från politiska positioner till politiska samtal**. Fler dimensioner kan synliggöra både samsyn och skillnader, utan att förneka faktiska målkonflikter.
 
 ## Lärandemål och begreppskarta
 
 | Mål | Förkunskap | Observerbart kunnande | Återkomst |
 |---|---|---|---|
-| L01 skilja värdering från empiriskt påstående | ingen | sorterar två påståenden och anger vad som kan undersökas | M04, M06 |
-| L02 jämföra ideologier utan karikatyr | L01 | beskriver mål, medel och intern spänning för två perspektiv | M04, M06 |
-| L03 använda axlar som förenklingar | L02 | skiljer ekonomi, frihet, kultur och förklarar osäker placering | M05, M06 |
-| L04 formulera villkorade effektkedjor | L01, L02 | anger mekanism, motverkande effekt och undersökningsbehov | M06 |
-| L05 skilja ideologi och strategi | L02, L03 | granskar metod och institutionella villkor separat från politiska mål | M06 |
-| L06 överföra analys till nytt fall | L01–L05 | redovisar alternativ, osäkerhet och starkaste motargument | slutuppgift |
+| L01 värdering och empiriskt påstående | ingen | skiljer ett bör från en prövbar hypotes | M04, M06 |
+| L02 perspektiv utan etikettlåsning | L01 | identifierar både samsyn och sakskillnad hos två fiktiva personer och beskriver två perspektivs mål och medel rättvist | M03, M06 |
+| L03 flerdimensionella modeller | L02 | beskriver hur närhet växlar mellan sakdimensioner och nämner en modellbegränsning | M05, M06 |
+| L04 villkorade effektkedjor | L01–L03 | skiljer direkta och indirekta mekanismer, varierar ett villkor och anger osäkerhet | M06 |
+| L05 ideologi och strategi | L02–L03 | granskar maktutövning separat från ideologiskt mål | M06 |
+| L06 tillämpning, samtal och framsyn | L01–L05 | formulerar gemensam utgångspunkt, oenighet, starkt motargument och ett alternativt framtidsscenario | slutuppgift |
 
-## Undervisningsform
+## Genomförande
 
-Följ det fiktiva kommunfallet Lindvik. Scen → meningsfull utforskning → möjlig konsekvens → saklig förklaring → tillämpning → nästa scen. Ge ett kort avsnitt åt gången, normalt högst cirka 180 ord. Fråga en sak i taget. A/B är perspektiv eller hypoteser, inte politiskt facit. Ge likvärdig förklaring för båda vägarna. ”Fortsätt” leder till förklaring och nästa steg.
+Följ det fiktiva Lindvik genom **scen → en fråga → svar eller fortsätt → förklaring → tillämpning**. Visa korta steg, normalt högst cirka 180 ord och bara en fråga åt gången. A/B är verktyg för utforskning, inte politiskt facit. Vid fortsätt visa saklig förklaring utan att tillskriva deltagaren ett svar. Fråga aldrig efter politisk tillhörighet eller röstning. Använd vanligt textalternativ till tabeller och kartor.
 
-Visa jämförelsetabeller när de gör skillnader tydliga. Alla nödvändiga insikter ska även kunna uttryckas i vanlig text. Diagram är frivilliga och får inte framställa antagna samband som belagda. Undvik påhittade koordinater och dekorativa bilder.
+M01 skiljer mål och hypotes. M02 visar hos fiktiva personer både vad som förenar och skiljer, **före** ideologiska kategorier. M03 demonstrerar varför en dimension kan förstärka lägerintryck och flera dimensioner avslöja fler relationer. M04 jämför direkta och indirekta mekanismer med samma tidsram och beläggskrav. M05 granskar strategier och institutioner oberoende av ideologisk etikett. M06 tränar samtal, kunskapsbehov och framsyn genom ett nytt fall.
 
-## Minnesförstärkning
+## Sex metodprinciper
 
-Återkalla frivilligt skillnaden mellan värdering och belägg i M04, frihetsbegreppen i M03, institutionernas roll i M05 och alla tidigare verktyg i M06. Be om en kort förutsägelse före förklaringen när det hjälper. Variera tillämpningen. En gissning visar igenkänning, inte säker förståelse. Ingen permanent användarprofil behövs. Sammanfatta vid paus: modul, nyckelbegrepp, nästa scen och eventuell missuppfattning. Påstå inte att repetition i en session bevisar varaktigt lärande.
+Transparens synliggör antaganden, värderingar och osäkerhet. Konsekvens prövar slutsatsers förenlighet med principer. Jämförbarhet använder samma frågor, tidsperspektiv och analysdjup för alla alternativ. Systemtänkande undersöker incitament, beteenden och direkta och indirekta effektkedjor. Intellektuell öppenhet låter deltagaren återge ett annat perspektiv och hitta möjliga gemensamma nämnare utan kompromisskrav. Framsyn prövar plausibla alternativa framtidsvillkor utan att påstå säker prognos.
 
-## Neutralitet
+## Fler dimensioner före etiketter
 
-Bedöm saklighet och resonemang, aldrig ideologisk tillhörighet. Dra inte slutsatser om deltagarens politiska profil av enskilda svar. Personliga värderingar är frivilliga att dela. Skilj neutral presentation från att ge lika empirisk trovärdighet åt alla påståenden. Beskriv förtryck och inskränkningar av rättigheter sakligt. Kursen ska inte styra röstning eller producera individuellt riktad politisk påverkan.
+I fiktiva jämförelser ska samma personer kunna vara nära i ekonomisk organisering men längre ifrån i maktfördelning, eller tvärtom. Be deltagaren identifiera ett par som delar en preferens men skiljer sig i en annan. Låt okända positioner förbli okända. Inga påhittade individkoordinater eller slutsatser om verkliga människor. En modell är ett förenklat analysverktyg, inte ett personlighetstest. Samsyn är en möjlig samtalsingång, inte en garanti för enighet.
 
-## Sammanhängande progression och ämnesunderlag
+## Balans, källäge och progression
 
-Behåll samma analysfrågor genom kursen: vad eftersträvas, vilken mekanism föreslås, vilka villkor krävs och vad skulle kunna ändra slutsatsen? M01 skiljer värde från hypotes; M02 jämför perspektiv; M03 prövar kartornas begränsningar; M04 undersöker mekanismer och ändrade villkor; M05 granskar metoder och makt; M06 tillämpar verktygen i ett nytt fall. Återkoppla kort när ett tidigare begrepp behövs, inte genom obligatorisk repetition efter varje steg.
+För varje perspektiv: förklara mål, föreslagen mekanism, antaganden, relevant inre spänning och starkaste sakliga invändning på lika djup. Skilj värderingar, empiriska uppgifter, tolkningar och framtidsscenarier. Neutralitet kräver inte att alla faktapåståenden anses lika väl underbyggda. Beskriv auktoritära inskränkningar av fri- och rättigheter sakligt. Uppgifter från bilagorna är schematiska och kan kräva verifiering; ingen målsättning garanterar utfall.
 
-För varje perspektiv som jämförs: gör målet begripligt, förklara den föreslagna mekanismen, ange en relevant intern spänning och bemöt dess starkaste rimliga argument. Samma frågor gäller alla; empiriskt stöd behöver inte vara lika starkt. Bilagornas schematiska positioner är exempel, inte uttömmande beskrivningar av alla företrädare. Attraktiva målformuleringar visar vad perspektivet eftersträvar, inte att åtgärden fungerar.
+Återkalla frivilligt tidigare insikter i nya sammanhang. Be om en kort förutsägelse **före** förklaringen när ett villkor ändras. I M04 varierar byggkapaciteten, i M06 kollektivtrafikens kapacitet. En gissning visar inte behärskning. Vid paus notera endast modul, begrepp och nästa fråga; anta inte permanent minne.
 
-Skilj perspektivets anspråk från kursens sakförklaring. ”Förespråkare menar” anger avsändare men verifierar inte ett empiriskt påstående. Saknas kontrollerat stöd, säg vad som är osäkert och vilket underlag som behövs; använd inte en kategorisk bilageformulering som facit. Fördjupa ett begrepp i taget utifrån dess analysfråga och återvänd sedan till scenen. Undervisningen är självständig med COURSE.md och kräver ingen extern källa för att fortsätta.
+## Samma standard för individuellt val och gemensam finansiering
 
-## Balanserade beskrivningar av val och välfärd
+Skilj finansiering, utförande, beslutanderätt och riskdelning enligt knowledge/CHOICE.md. Beskriv hur egna resurser och val kan främja självbestämmande och hur gemensam finansiering kan stödja tillgång och riskdelning, men också villkor och brister i båda fallen. Tillskriv inte hela traditioner en enda modell. Pröva liknelsen mellan marknadens återkommande val och demokratiskt inflytande utan att likställa köpkraft med lika röstvärde; granska på motsvarande sätt faktisk användarmakt genom offentliga beslut.
 
-Använd knowledge/CHOICE.md som gemensamt begreppsstöd. M02 introducerar samma konkreta behov och skiljer betalning från val; M03 visar kartornas begränsningar; M04 prövar villkoren för verkliga alternativ; M05 jämför marknadsinflytande och politiskt ansvarsutkrävande; M06 överför detta till trafikfallet. L01–L06 behålls. Nytt innehåll doseras i korta steg, med frivillig förutsägelse före förklaring och textalternativ till varje tabell.
-
-När nya dilemman skapas: beskriv varje åtgärds syfte, tänkta mekanism, förutsättningar och osäkerhet på jämförbar detaljnivå. Ställ inte ett oklart ”mer pengar” mot konkret vård eller trygghet. Beskriv även hur egna resurser, försäkring och utförarval kan avses tillgodose samma behov, och hur kollektiv finansiering kan avses ge tillgång och riskdelning. Skilj avsikter från utfall för samtliga. Blanda inte kompletterande köp med ersättning av grundfinansiering. Definiera budgetens tidshorisont om belopp införs. Tillskriv inte alla liberaler samma finansieringsmodell eller alla offentliga lösningar samma valmöjligheter.
-
-Uttrycket ”marknaden som parallell demokrati” behandlas som ett argument och en prövbar liknelse om inflytande, inte som ett fastslaget likhetstecken mellan köp och lika politisk rösträtt. Förklara först liknelsens bärande idé rättvisande och pröva sedan dess gränser. Gör motsvarande prövning av påståenden om att politiska beslut automatiskt ger reellt brukarinflytande. Be inte deltagaren välja politisk identitet; personliga prioriteringar är frivilliga och kan ersättas med analys av fiktiva personer.
+Utgiftsmultiplikator betyder inte automatiskt självfinansiering eller samhällsekonomisk nettovinst. Effektordning är inte samma sak som tidshorisont; en längre kedja är inte automatiskt bättre. Källprojektets olika koordinatsystem (principer, kartor, ekonomiaxlar och historiska problemkort) är inte direkt konverterbara. Kursens inbyggda data är en historisk kursanpassad ögonblicksbild, inte en livekopia av webbplattformen.
 
 ---
 
@@ -82,11 +76,22 @@ Uttrycket ”marknaden som parallell demokrati” behandlas som ett argument och
 
 status: draft
 
-Skilj frånvaro av svar, igenkänning, självständig återkallning och tillämpning i nytt fall. Registrera bara belägg som faktiskt finns i samtalet. Inga godkäntgränser eller certifikat.
+Bedöm analytisk färdighet, aldrig politisk uppfattning, kompromissvilja, valavsikt eller ideologisk identitet. Skilj frånvaro av svar, igenkänning, självständig återkallning och tillämpning i nytt fall. Registrera bara det som uttryckligen framgår av samtalet; påstå inte att kursdeltagaren har lärt sig något permanent.
 
-För M06 bedöms sex aspekter: värdering kontra fakta, två rättvisande perspektiv, relevant kartbegränsning, villkorad effektkedja, strategi kontra ideologi och preciserad osäkerhet. Varje aspekt får ”visat”, ”delvis visat” eller ”inte observerat” med en konkret motivering. En politisk preferens ger varken plus eller minus. För effektkedjan, observera även om deltagaren kan ändra en förutsättning, beskriva en möjlig följd och behålla en relevant osäkerhet. Skilj detta från att återge lärarens exempel. Det konkretiserar befintliga mål, utan nya godkäntkrav. Ge en styrka och ett nästa utvecklingssteg. Om deltagaren väljer fortsätt, visa ett genomarbetat exempel och säg att självständig tillämpning inte har prövats.
+## M06: sex observerbara aspekter
 
-Inom befintliga aspekter i M06: observera om deltagaren skiljer finansiering från utförande och individuella val från politiskt röstvärde. Ett rättvisande perspektiv kan förklara både marknadsvalets tänkta inflytande och kollektiv finansierings tänkta riskspridning utan att acceptera något som garanti. Bedöm inte om deltagaren föredrar skatt, egen betalning eller försäkring. Använd ”inte observerat” om läraren visat exemplet utan ett självständigt svar; inga nya godkäntkrav införs.
+| Aspekt | Vad kan observeras? |
+|---|---|
+| Värdering och empiriskt påstående | Skiljer mål från prövbar effekt och föreslår relevant belägg |
+| Perspektiv och samsyn | Beskriver minst två perspektiv rättvisande, identifierar både en gemensam utgångspunkt och en saklig oenighet |
+| Dimensioner och kartbegränsning | Förklarar varför en politisk etikett eller axel inte avgör hela resonemanget |
+| Villkorad effektkedja | Bygger ett direkt och indirekt förlopp, varierar ett villkor och behåller en relevant osäkerhet |
+| Strategi och ideologi | Bedömer politisk maktutövning separat från politiskt mål |
+| Konstruktivt samtal och framsyn | Återger ett starkt motargument och prövar minst ett alternativt framtidsscenario utan säker prognos |
+
+Bedöm varje aspekt som **visat**, **delvis visat** eller **inte observerat** med ett konkret exempel. Ge en observerad styrka och ett nästa övningssteg. Att identifiera samsyn är inte en skyldighet att kompromissa eller hålla med. Om användaren skriver ”fortsätt” eller väljer lärarens exempel, markera självständig förmåga som **inte observerat**.
+
+Inom samma aspekter kan deltagaren visa att finansiering skiljer sig från utförande, att individuella val skiljer sig från politiskt röstvärde, att en ändrad kollektivtrafikkapacitet förändrar förutsättningar och att osäkerhet kvarstår. Kräv inte sådana fördjupningar för alla deltagare och tilldela aldrig plus eller minus för en önskad finansieringsmodell. Ingen godkäntgräns, ingen certifiering och ingen profilering.
 
 ---
 
@@ -116,117 +121,135 @@ status: draft
 | Riskdelning | Hur osäkra och stora kostnader fördelas mellan flera | Att risk eller kostnader försvinner |
 | Marknadsinflytande | Påverkan genom efterfrågan, avtal och möjlighet att välja eller byta | Lika politiskt röstvärde |
 | Brukarinflytande | Möjlighet att påverka tjänsten som mottagare | Enbart egen betalning eller val mellan företag |
+| Politisk dimension | Avgränsad fråga eller värdeskala, exempelvis ekonomisk organisering eller maktfördelning | Fullständig beskrivning av en person |
+| Samsyn | Delade utgångspunkter eller bedömningar i en specificerad fråga | Enighet i alla frågor eller krav på kompromiss |
+| Politisk etikett | Förenklad benämning på tradition eller tillhörighet | Säkert facit för alla individuella uppfattningar |
+| Intellektuell öppenhet | Vilja att pröva alternativa tolkningar och egna antaganden | Att godta alla påståenden som lika väl underbyggda |
+| Framsyn | Utforskning av alternativa möjliga framtider och deras villkor | Säker prognos eller förutsägelse |
+| Första, andra, tredje ordningens effekt | Analys av direkta förändringar, anpassningar och vidare följder | Fasta kalenderperioder eller en automatisk rangordning |
 
 ---
 
-# M01 – Samma problem, olika svar
+# M01 – Samma problem, olika påståenden
 
 status: draft
 objective: L01
 
 ## Scen
 
-Lindvik har för få bostäder. Amina säger: ”Alla bör ha möjlighet till en trygg bostad.” Erik säger: ”Enklare bygglov kommer att öka byggandet.” Båda vill minska bostadsbristen.
+I den fiktiva kommunen Lindvik råder bostadsbrist. Amina säger: ”Alla bör kunna få en trygg bostad.” Erik säger: ”Enklare bygglov kommer att öka byggandet.” Båda vill minska bostadsbristen men uttrycker olika typer av påståenden.
 
 ## Utforska
 
-Vilket påstående behöver främst undersökas med data: A Aminas eller B Eriks? Du kan också skriva fortsätt.
+Vilket påstående behöver främst prövas med data: A Aminas eller B Eriks? Du kan också skriva fortsätt.
 
 ## Förklaring och återkoppling
 
-B är en empirisk hypotes: effekten beror bland annat på finansiering, efterfrågan, mark och andra regler. Aminas ”bör” uttrycker ett värde. Om deltagaren väljer A, förklara att man kan undersöka bostadstrygghetens omfattning men inte avgöra själva bör-kravet med enbart data. Samma mål ger inte automatiskt samma medel. En värdering kan motiveras och kritiseras; den är inte meningslös för att den inte är en mätning.
+B är en empirisk hypotes: ökat byggande beror bland annat på tillgång till mark, finansiering, byggkapacitet, efterfrågan och andra regler. A uttrycker ett värde eller mål. Om deltagaren svarar A: man kan undersöka **hur många** som saknar trygg bostad men inte avgöra själva ”bör” med statistik. Värderingar kan argumenteras för eller emot utan att vara empiriska hypoteser. Att Amina och Erik delar ett mål betyder inte att deras lösningsförslag måste vara desamma. Börja med det gemensamma; granska sedan skillnaderna i medel.
 
 ## Jämförelse
 
-| Fråga | Exempel | Hur prövas den? |
+| Fråga | Exempel | Hur undersöks den? |
 |---|---|---|
-| Värdering | Vad är rättvist? | Argument och avvägningar |
-| Empirisk hypotes | Ökar byggandet? | Relevant data och jämförelse |
-| Genomförande | Vem beslutar och betalar? | Institutioner och resurser |
+| Vad eftersträvas? | Alla bör ha ett tryggt boende | Värderingar och rimliga avvägningar |
+| Vad antas ske? | Förenklade bygglov ger fler bostäder | Fakta, mekanismer, jämförelser |
+| Hur ska det genomföras? | Vem beslutar, finansierar och bygger? | Regler, resurser och institutioner |
 
-Textalternativ: skilj mellan vad vi vill, vad vi tror händer och hur åtgärden genomförs.
+Textalternativ: skilj målet, hypotesen om effekten och genomförandet. Samma problem kan förena människor med olika uppfattningar om medlen.
 
 ## Tillämpning och övergång
 
-Be frivilligt om ett exempel på ett annat medel till samma mål. Förklara annars: byggstöd och regelförenkling kan båda syfta till fler bostäder men ha olika kostnader och villkor. Nästa del undersöker varför människor prioriterar olika medel. Samma behov kan mötas genom gemensamma beslut och individuella val; vi ska undersöka både tänkt nytta och villkor, inte låta ett perspektiv ensam stå för omsorg eller frihet.
+Fråga frivilligt: ”Kan två personer vara överens om målet men oense om lösningen?” Vid fortsätt: ja; exempelvis byggstöd och regelförenkling kan båda syfta till fler bostäder, men följderna måste granskas separat. Lägg inte till ideologiska etiketter för Amina eller Erik. I nästa del möter vi fler personer och undersöker hur samsyn och sakskillnader kan växla mellan frågor.
 
 ---
 
-# M02 – Ideologier och målkonflikter
+# M02 – Bortom etiketterna: människor och idéer
 
 status: draft
 objective: L02
 
 ## Scen
 
-Kommunen överväger ett bostadsprogram. Amina prioriterar att hushåll med små resurser kan efterfråga bostäder. Erik prioriterar fler byggaktörer och färre etableringshinder. Sofia oroar sig för att snabb omvandling förstör fungerande lokala gemenskaper. Personerna representerar argument, inte hela ideologier.
+Fyra fiktiva personer diskuterar Lindviks utveckling. Amina vill ha mer offentligt ansvar för bostäder men också lokal beslutanderätt. Erik föredrar marknadsbaserat byggande och vill också sprida makt lokalt. Sofia föredrar offentligt ansvar men vill att viktiga beslut samordnas centralt. Daniel föredrar fler privata byggaktörer och vill värna personlig autonomi och kulturell förändring. De säger ännu inget om partier eller ideologiska identiteter.
 
 ## Utforska
 
-Vill du först undersöka A frihet och jämlika möjligheter eller B förändring och kontinuitet? Båda vägarna leder till hela jämförelsen.
+Vad kan Amina och Erik vara överens om trots olika syn på bostadsekonomi: A decentraliserad makt eller B finansieringen? Fråga en sak i taget; deltagaren kan skriva fortsätt.
 
 ## Förklaring och återkoppling
 
-Klassisk liberalism betonar individuell frihet, äganderätt och begränsad stat. Ett argument är att människor genom egna resurser, avtal och val av tjänster ska kunna påverka hur deras behov tillgodoses, exempelvis omsorgens inriktning. Socialliberalism betonar också frihet men framhåller reella möjligheter, exempelvis utbildning och trygghet. Socialdemokrati betonar demokratisk reform, välfärd och omfördelning inom en blandekonomi. Konservatism betonar institutionell erfarenhet, kontinuitet och varsam förändring. Ingendera ger ett automatiskt svar på varje bostadsförslag.
+A. Amina och Erik skiljer sig åt om ekonomisk organisering men närmar sig varandra i synen på maktfördelning. Amina och Sofia närmar sig varandra i bostadsekonomi men skiljer sig om centralisering. Erik och Daniel liknar varandra i en ekonomisk fråga men kan ha olika uppfattningar om andra frågor. Inget av detta räcker för att avgöra deras syn på alla sakfrågor, och ingen person får en ideologietikett. Beskriv både överlappningen och den kvarvarande sakliga oenigheten.
 
-## Jämförelse
+## Jämförelse: byt analysdimension
 
-| Perspektiv | Fråga till förslaget | Intern spänning |
+| Fiktiv person | Ekonomisk organisering av bostäder | Maktfördelning | En annan uttalad prioritet |
+|---|---|---|---|
+| Amina | Mer offentligt ansvar | Mer lokal beslutanderätt | Trygg bostad |
+| Erik | Fler marknadsbaserade lösningar | Mer lokal beslutanderätt | Enklare etablering |
+| Sofia | Mer offentligt ansvar | Mer central samordning | Stabilitet |
+| Daniel | Fler marknadsbaserade lösningar | Ej angivet | Personlig autonomi och kulturell förändring |
+
+Textalternativ: Amina står nära Sofia i synen på ekonomiskt ansvar, men nära Erik i synen på lokal makt. Daniels syn på maktfördelning är okänd. Luckor ska vara luckor, inte ifyllda poäng. Tabellen beskriver bara de uttalade positionerna.
+
+## Perspektiv bakom argumenten
+
+Introducera ideologiska traditioner **efter** personjämförelsen, som sätt att förstå argument – inte som facit om personerna. Klassisk liberalism betonar äganderätt, individuell frihet och begränsad stat; socialliberalism också frihet men med betoning på reella möjligheter; socialdemokrati reformer, välfärd och omfördelning i en blandekonomi; konservatism kontinuitet, institutioner och varsam förändring. Socialism aktualiserar ägande och ekonomisk makt, ekologism ekologiska gränser, ordoliberalism konkurrensregler och libertarianism långtgående begränsningar av staten. Vid fördjupning kan kunskapsbilagan belysa nationalism, nyliberalism, kommunism och fascism. Ideologier har intern variation; historiska inskränkningar av rättigheter ska inte relativiseras.
+
+| Perspektiv | En möjlig styrfråga | Relevant inre spänning |
 |---|---|---|
-| Klassisk liberalism | Kan personen styra sina resurser och välja lösning för sina behov? | Självbestämmande, resurser och beroende av utförare |
-| Socialliberalism | Får fler verkliga möjligheter? | Stödjande stat och individuell autonomi |
-| Socialdemokrati | Breddas trygghet och jämlikhet? | Fördelning, finansiering och incitament |
-| Konservatism | Vad riskerar att gå förlorat? | Kontinuitet och nödvändig reform |
+| Klassisk liberalism | Kan personen genom egna resurser och val påverka sitt liv? | Formell frihet och reella möjligheter |
+| Socialliberalism | Ger regler och socialt stöd fler faktiskt möjliga val? | Statligt stöd och autonomi |
+| Socialdemokrati | Hur fördelas trygghet, kostnader och inflytande? | Omfördelning, finansiering och incitament |
+| Konservatism | Vilka etablerade institutioner bör värnas under förändring? | Kontinuitet och nödvändig reform |
 
-Textalternativ: läs varje rad som mål, granskningsfråga och spänning. Visa två rader åt gången vid behov.
+Textalternativ: samma problem, olika frågor. Förklara varje perspektivs mål, mekanism och starkaste invändning med lika omsorg. En attraktiv avsikt garanterar inte ett utfall.
 
-## Upptäck skillnaden mellan betalning och val
+## Betalning och val är olika frågor
 
-Lindviks bostadsdiskussion väcker en ny fråga: Samira behöver ett boende med omsorg och vill påverka sin vardag. I en hypotetisk modell betalas omsorgen gemensamt men hon väljer mellan godkända utförare. Fråga en sak: ”Betyder eget val av utförare att Samira betalar hela omsorgen själv?” Vänta på svar eller fortsätt.
-
-Återkoppla: nej, finansiering och val är olika frågor. I en annan modell används mer egna resurser eller frivillig försäkring för att påverka innehåll och utförare. Det senare är också ett argument om omsorg och självbestämmande, men kräver prövning av tillgång och skydd vid stora behov. Förklara sedan kollektiv finansierings argument om behov och delade kostnader med samma omsorg om mekanismen. Ingen modell garanterar utfallet. Fördjupa vid behov med knowledge/CHOICE.md i det samlade underlaget; visa inte alla modeller på en gång.
+Samira behöver boende med omsorg. I en hypotetisk modell finansieras omsorgen gemensamt men Samira kan välja mellan godkända utförare. Fråga: ”Betyder hennes val att hon betalar hela omsorgen själv?” Vid fortsätt: nej. Finansiering, utförande, beslutanderätt och riskdelning är olika dimensioner. En annan modell kan ge större utrymme för egna resurser, försäkringar och egna avtal men behöver också prövas mot faktiskt tillgängliga alternativ och risker. Gemensam finansiering kan syfta till tillgång och riskdelning men garanterar inte automatiskt inflytande. Använd knowledge/CHOICE.md för fördjupning.
 
 ## Tillämpning och övergång
 
-Visa även socialismens fokus på ägande och ekonomisk makt, ekologismens fokus på ekologiska gränser, ordoliberalismens konkurrensregler och libertarianismens långtgående begränsning av staten. Använd knowledge/source/ideologies.js för fördjupning inklusive nationalism, nyliberalism, kommunism och fascism. Skilj deras teoretiska mål, interna variation och historiska tillämpningar. Neutralitet kräver inte att auktoritära förtrycksformer framställs som demokratiska.
-
-Knyt jämförelsen till M01: ett gemensamt mål kan förenas med olika värderingar och olika hypoteser om vad som fungerar. Jämför mål, föreslagen mekanism, intern spänning och starkaste rimliga invändning på samma villkor för de perspektiv som behandlas. Ett mål är inte ett belagt resultat.
-
-Be frivilligt deltagaren formulera det starkaste argumentet för ett annat perspektiv än det nyss utforskade. Rätta karikatyrer sakligt. Fortsätt till kartorna utan att klassificera deltagaren.
+Be frivilligt deltagaren formulera **en samsyn, en kvarvarande konflikt och en fråga som behöver undersökas** hos två fiktiva personer. Vid fortsätt: Amina och Erik delar önskemålet om lokala beslut men kan fortfarande tvista om bostadsförsörjningen; vilka lösningar som fungerar beror på mekanismer och förutsättningar. Fråga inte efter deltagarens politiska åsikter. Nästa del visar hur en endimensionell karta kan dölja denna komplexitet.
 
 ---
 
-# M03 – Kartor är modeller
+# M03 – Flera dimensioner, fler möjliga samtal
 
 status: draft
 objective: L03
 
 ## Scen
 
-Erik vill ha friare marknad men försvarar fria medier och individuell livsstil. Sofia vill också ha privat företagande men värnar traditioner. Någon säger att deras ekonomiska likhet betyder att de tycker lika om allt.
+De fyra fiktiva personerna från M02 placeras först i två grupper efter **endast** sin syn på ekonomisk organisering: Amina och Sofia på ena sidan, Erik och Daniel på den andra. Någon drar slutsatsen att Amina och Erik därför saknar gemensamma utgångspunkter.
 
 ## Utforska
 
-Räcker ekonomisk höger–vänster för slutsatsen? A ja eller B nej? Förklara gärna kort, eller skriv fortsätt.
+Håller slutsatsen när vi också känner till deras syn på maktfördelning? A ja eller B nej? Deltagaren kan skriva fortsätt.
 
 ## Förklaring och återkoppling
 
-B: ekonomi, frihet och kultur är skilda analytiska dimensioner. I webbprojektets treaxliga ramverk går ekonomi från statlig styrning mot marknad, frihet från frihetligt mot auktoritärt och kultur från progressivt mot konservativt. Skalan −10 till +10 är en modell, inte ett validerat personlighetstest. Val av utförare visar inte ensamt vem som betalar eller hur kostnader delas; återkalla Samiras exempel från M02. En stark stat som upprätthåller konkurrensregler är inte därmed auktoritär i fråga om yttrandefrihet. Konservativ kulturuppfattning innebär inte automatiskt stöd för tvång.
+B. Amina och Erik föredrar båda mer lokal beslutanderätt trots ekonomisk skillnad. Amina och Sofia kan ligga nära ekonomiskt men längre ifrån varandra i maktfrågan. En enda skala kan synliggöra en verklig skillnad men samtidigt dölja annan samsyn. Fler dimensioner kan göra det mindre rimligt att behandla människor som två homogena läger. Det garanterar varken enighet eller att en person bör byta uppfattning.
 
-## Jämförelse
+## Jämförelse: en skala respektive flera
 
-| Modell | Vad den skiljer åt | Begränsning |
+| Analys | Vad kan vi se? | Vad kan vi inte dra slutsats om? |
 |---|---|---|
-| Politisk kompass | Ekonomi och auktoritet/frihet | Två axlar fångar inte alla värden |
-| Nolan | Ekonomisk och personlig frihet | Begrepp och mätfrågor styr placeringen |
-| GAL–TAN | Gröna/alternativa/libertära och traditionella/auktoritära/nationalistiska värden | Är inte en direkt översättning av tre separata axlar |
-| Inglehart–Welzel | Traditionella/sekulärt-rationella samt överlevnads/självuttrycksvärden | Samhällsdata får inte utan vidare bli individpoäng |
+| En ekonomisk dimension | Amina och Sofia liknar varandra; Erik och Daniel liknar varandra | Syn på makt, kultur, frihet och demokratiskt deltagande |
+| Ekonomi + maktfördelning | Amina och Erik delar decentraliseringsintresse trots olika ekonomiska idéer | Samma motiv, identiska lösningar eller en generell politisk identitet |
+| Fler dimensioner | Ytterligare samsyn och skillnader kan upptäckas | Att tomma uppgifter eller fiktiva placeringar är empiriska mätningar |
 
-Textalternativ: modellerna väljer olika frågor och kan därför ge olika bilder. Webbprojektets kompasskoordinater, ekonomiaxlar, treaxliga principer och problempositioner är separata system; konvertera inte tal mellan dem.
+Textalternativ: samma personer byter inte åsikt när vi lägger till en dimension. Vi upptäcker bara mer av det som redan sagts. Ingen numerisk koordinat behövs.
+
+## Politiska kartor och deras begränsningar
+
+Webbplattformen använder flera olika modeller. En politisk kompass skiljer ekonomisk organisering från frihet/auktoritet; Nolan-diagrammet skiljer ekonomisk från personlig frihet; GAL–TAN tar upp andra politiska och kulturella skiljelinjer; Inglehart–Welzel visar övergripande kulturmönster utifrån andra dimensioner. Kursens exempel med **ekonomi, maktfördelning, personlig autonomi, kulturell förändring och beslutsfattande** är ett pedagogiskt perspektivbyte – **inte** en ny uppmätt eller direkt konverterbar modell.
+
+Webbprojektets `principles.json` använder ekonomi, frihet och kultur på −10 till +10; webbplatsens kartkoordinater, ekonomifilosofiernas axlar och problempositioner är separata system. Använd inte skenbart exakta personpoäng, härled inte en axel ur en annan och likställ inte decentralisering med frihetlighet i alla sammanhang. Ingen siffra gör en tolkning objektiv utan definitioner och empiriskt underlag.
 
 ## Tillämpning och övergång
 
-Återkalla formell frihet kontra reella möjligheter från M02. Fråga frivilligt vilken ytterligare information som behövs för att beskriva Erik och Sofia. Lämplig återkoppling: konkreta ställningstaganden och kontext krävs, en åsikt fastställer inte en ideologi. Nästa del granskar ekonomiska mekanismer: en kartplacering visar varken att en åtgärd fungerar eller vilka förutsättningar den kräver.
+Be deltagaren ange en saklig fråga där Amina och Erik kan samtala utifrån gemensamt intresse och en där de behöver förstå varandras argument. Vid fortsätt: de kan undersöka vem som bör fatta byggbeslut lokalt samtidigt som de jämför offentligt ansvar och marknadsbaserade bygglösningar. Ett konkret samtal kan börja i gemensamma mål och specificera sakliga oenigheter utan att sudda ut dem. Återkalla Samiras exempel: utförarval berättar inte automatiskt vem som betalar. Nästa del granskar vad förslag faktiskt kan leda till.
 
 ---
 
@@ -296,6 +319,11 @@ Textalternativ: stöd ändrar resurser; hushåll och producenter kan anpassa sig
 
 Återvänd till den ändrade byggkapaciteten. Be frivilligt om en möjlig förändring av kedjan och en kvarstående osäkerhet. Ge annars exemplet: fler byggprojekt kan bli möjliga, men finansiering kan fortfarande begränsa utfallet. Fråga vilken observation som skulle hjälpa att pröva hypotesen, exempelvis faktiskt påbörjade bostäder jämfört med ett relevant alternativt förlopp. Påstå inte att samtidighet bevisar orsak eller att nettoutfallet är känt. Fortsätt till hur politiskt stöd vinns och hur makten granskas.
 
+
+## Samma mål, olika effektvägar
+
+Återkalla M02–M03: två personer kan vara överens om fler bostäder eller mer lokal beslutanderätt även när de föreslår olika ekonomiska lösningar. Jämför därför **hyresstöd** och **minskade hinder för byggande** på lika villkor. Hyresstöd kan påverka hushålls betalningsförmåga direkt och därefter efterfrågan, priser och utbud indirekt. Regelförändring kan först påverka villkoren för byggprojekt och därefter aktörers beslut, faktiskt byggande och tillgång. För båda alternativen krävs antaganden om finansiering, utbud, beteenden, fördelning och alternativkostnad. Jämför samma tidshorisont och fråga vilka led som stöds av belägg. Direkt verkan är inte automatiskt större eller mer säker samhällsnytta än indirekt verkan; en längre kedja är inte heller automatiskt bättre. Be frivilligt deltagaren formulera en möjlig gemensam målsättning och den centrala prövbara oenigheten. Vid fortsätt: det gemensamma målet är fler tillgängliga bostäder; oenigheten gäller mekanism, kostnader, fördelning och förväntat utfall. Undvik att tillskriva personerna fasta ideologier.
+
 ---
 
 # M05 – Strategier och demokratiska vägval
@@ -343,6 +371,11 @@ Fråga vid behov hur en person som inte kan byta ändå kan få gehör. Klagomå
 
 Återkalla skillnaden mellan statens ekonomiska roll och politisk auktoritet från M03. Be deltagaren ändra den andra gruppens tillvägagångssätt så att opposition, fria medier, rättslig prövning och maktskifte respekteras utan att gruppen måste överge sitt bostadsmål. Att kritisera ett domstolsbeslut är inte i sig att avskaffa rättsstaten. Knyt till M04: även en åtgärd som verkar effektiv behöver granskas utifrån insyn och ansvarsutkrävande. Fortsätt till ett nytt fall där samma analysfrågor återkommer.
 
+
+## Samtal bortom läger
+
+Knyt till M02–M03: grupper med olika bostadspolitiska förslag kan ändå dela ett mål eller ett krav på lokal insyn. Samtidigt kan grupper med liknande ekonomiskt förslag skilja sig åt i synen på opposition och kontroll av makten. Be frivilligt deltagaren formulera en fråga som båda grupperna kan undersöka utan att först godta den andras politiska etikett. Vid fortsätt: ”Vilka öppna beslutsunderlag och möjligheter till ansvarsutkrävande krävs för ert förslag?” Överenskommelse om en granskningsprincip innebär inte stöd för ett visst bostadsförslag. Institutionella skillnader och demokratiska risker ska beskrivas sakligt, inte suddas ut för att uppnå samsyn.
+
 ---
 
 # M06 – Självständig analys
@@ -384,6 +417,13 @@ Erbjud en generell AI-instruktion som deltagaren frivilligt kan anpassa: ”Anal
 
 Använd pedagogy/ASSESSMENT.md. Sammanfatta vad deltagaren faktiskt har visat och vad som återstår att öva. Erbjud ett nytt sakfall, utan att kräva det. Påstå inte att genomgång i sig visar behärskning eller att deltagaren har en viss ideologi.
 
+
+## Samtalsövning: saklig oenighet och möjliga framtider
+
+När grundanalysen är gjord, be frivilligt deltagaren tänka sig ett kort samtal mellan två fiktiva Lindviksbor. Den ena prioriterar utsläppsminskning; den andra prioriterar tillgång för människor som behöver bilen. Be deltagaren uttrycka **vad båda kan vilja uppnå**, **vilken saklig fråga de fortfarande är oense om** och **vilket gemensamt kunskapsunderlag de behöver**. Vid fortsätt: de kan båda önska fungerande transporter och god miljö, men väga tillgänglighet och kostnadsfördelning olika; de behöver data om trafik, alternativ och berörda grupper. Samsyn är en möjlig samtalsingång, inte en påstådd överenskommelse eller ett krav på kompromiss.
+
+Pröva sedan **framsyn**: behåll trafikavgiften och jämför två uttryckligen hypotetiska framtider, en med väl utbyggd kollektivtrafik och en med långvarig kapacitetsbrist. Be först deltagaren förutsäga ett möjligt ändrat utfall och ange ett kvarstående okänt för varje framtid. Vid fortsätt: i det första förloppet kan fler kunna byta färdsätt, i det andra kan omställning vara svårare och fördelningseffekter större. Inget av scenarierna fastslår utfallet eller dess storlek. Beskriv vilka observationer som skulle hjälpa att skilja förloppen åt. Detta bygger vidare på kapacitetsändringen i den tidigare övningen utan att förväxla effekternas ordning med tidshorisont.
+
 ---
 
 # Kunskapsunderlag och status
@@ -405,6 +445,11 @@ Modulernas grundläggande ideologibeskrivningar, tre axlars riktningar och strat
 ## Kvarvarande granskning
 
 Oberoende ämnesgranskning av samtliga modeller och historiska exempel är inte utförd. Särskilt samlingsbegrepp som nyliberalism och socialism, kulturaxelns kategorier samt strategiernas demokratibeskrivningar kräver kontext. Källans likformiga struktur betyder inte att alla strategier eller ideologier har samma demokratiska risk. Inga statistiska effektstorlekar introduceras och ingen numerisk prognos görs. Skalan −10 till +10 är avstämd mot principles.json; ingen annan beräkning krävs.
+
+
+## Avstämning mot webbplattformens nya riktning (2026-11-28)
+
+Kursens pedagogiska progression, start och metodbeskrivningar är nu anpassade till webbplattformens publicerade inriktning: flerdimensionell jämförelse, samsyn och saklig oenighet, sex metodprinciper, jämförbara direkta/indirekta effektkedjor och framsyn. De fem lokala databilagorna är fortfarande de ovan dokumenterade **historiska, delvis kursanpassade ögonblicksbilderna**, inte ett påstående om att källdata har synkroniserats till dagens webb-revision. `problems.json` är historisk data från den äldre startsidan och ska inte användas som beskrivning av dagens start. För aktuellt sidinnehåll hänvisas till webbplattformens README och docs/vision.md; kursen ska fungera helt utan livehämtning under lektionen. Alla ämnesgeneraliseringar behåller status draft tills de har sakgranskats.
 
 ---
 

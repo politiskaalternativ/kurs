@@ -1,30 +1,22 @@
-# Politiska Alternativ – förstå, jämför och analysera
+# Politiska Alternativ – från positioner till samtal
 
-En svensk AI-ledd introduktion där du lär känna politiska ideologier, ekonomi och strategier genom att använda dem för självständig analys. Status: **draft**.
+En AI-ledd svensk kurs om politiska perspektiv, samsyn och saklig oenighet. Kursen utvecklar förståelse och analys, inte politisk identitet. Status: **draft**.
 
-Vill du gå kursen? Be din AI-assistent läsa [hela kursunderlaget](COURSE.md) och börja med introduktionen. Du behöver ingen installerad skill.
+## Starta
 
-## Starta i ChatGPT eller Claude
+Be din AI läsa https://raw.githubusercontent.com/politiskaalternativ/kurs/main/COURSE.md och börja med första scenen. Du kan också klistra in filens text om AI-tjänsten saknar länkåtkomst. Svara kort eller skriv ”fortsätt”. Egna politiska åsikter är alltid frivilliga.
 
-Klistra in https://politiskaalternativ.se/ i en chatt. Startsidan föreslås få ett synligt kurserbjudande; det blir tillgängligt först när webbändringen har publicerats. AI-tjänsten måste kunna läsa länkar och kan behöva en uttrycklig begäran:
+## Progression
 
-> Jag vill gå kursen Politiska Alternativ. Läs https://raw.githubusercontent.com/politiskaalternativ/kurs/main/COURSE.md och börja med introduktionen och första scenariot.
+1. Samma problem, olika påståenden: skilj mål och empirisk hypotes.
+2. Bortom etiketterna: upptäck samsyn och skillnader mellan fiktiva personer.
+3. Flera dimensioner: se vad en enda politisk skala döljer.
+4. Från intention till konsekvens: jämför direkta och indirekta effektkedjor.
+5. Strategier och makt: skilj politiska mål från sätt att utöva inflytande.
+6. Samtal och framsyn: pröva flera framtida villkor och formulera konstruktiva frågor.
 
-Om länkar inte kan läsas: öppna COURSE.md och klistra in texten i chatten. Automatisk kursstart från en ensam länk är inte garanterad.
+Genomgående gäller transparens, konsekvens, jämförbarhet, systemtänkande, intellektuell öppenhet och framsyn. Kursen klassificerar inte deltagare och ger inget kompetensbevis.
 
-## Sex delar
+## Källor och utveckling
 
-1. Samma samhällsproblem, olika svar.
-2. Ideologier och målkonflikter.
-3. Politiska kartor och deras begränsningar.
-4. Ekonomiska modeller och effektkedjor.
-5. Politiska strategier och demokratiska vägval.
-6. Självständig analys och egen AI-instruktion.
-
-Du kan svara kort eller skriva ”fortsätt”. Kursen bedömer resonemang, inte politiska åsikter. Den ger inget kompetensbevis.
-
-## Utveckling
-
-[Pedagogik](pedagogy/FRAMEWORK.md) · [Kunskapsunderlag](knowledge/README.md) · [Plattformar](quality/platform-capabilities.md) · [Tester](quality/acceptance-tests.md) · [Fortsatt arbete](ROADMAP.md)
-
-Framtaget med Discovery Learning 0.2.0. Materialet kan användas fristående från den skillen. MIT, se LICENSE.
+[Pedagogik](pedagogy/FRAMEWORK.md), [moduler](discovery/01.md), [ämnesunderlag](knowledge/README.md), [tester](quality/acceptance-tests.md) och [fortsatt arbete](ROADMAP.md). `COURSE.md` genereras av `python3 scripts/build.py` och kontrolleras med `python3 scripts/validate.py`. MIT-licens.

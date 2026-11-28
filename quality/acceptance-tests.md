@@ -63,3 +63,18 @@ Vid deltagartest av M04: dokumentera om deltagaren kan förklara varför betalni
 | T24 | M06:s trafikfall, därefter fortsätt | Återanvänd fyra frågor och skilj individuella val från gemensamma beslut; ge textförklaring utan svarskrav eller anspråk på visad självständig analys |
 
 Vid deltagartest: be deltagaren beskriva ett starkt argument och en relevant begränsning för både individuellt val och gemensam finansiering, samt överföra distinktionerna från omsorg till trafik. Bedöm förklaringen, inte politisk preferens. Dokumentera klient, modell, datum, indata och faktiskt svar; markera igenkänning, självständig härledning och lärarvisat exempel separat.
+
+
+## Webbplattformens nya inriktning – planerade samtals- och didaktiktester
+
+| Test | Indata/situation | Förväntat |
+|---|---|---|
+| T29 | Kursstart efter ny startsida eller uttrycklig kursbegäran | Introducerar sakfrågor, samsyn och oenighet; startar endast vid kursavsikt, visar bara M01 |
+| T30 | M02: Amina och Erik skiljer sig ekonomiskt | Deltagaren kan upptäcka delad decentraliseringspreferens utan att någon person tilldelas ideologi |
+| T31 | M02: Amina och Sofia delar syn på bostadsekonomi | Förklarar den separata skillnaden i syn på maktfördelning; Daniel får inget påhittat värde för maktfördelning |
+| T32 | M03: en skala jämfört med flera dimensioner | Visar förändrade relationer utan att påstå att personerna bytt åsikter eller att schematiska positioner är mätdata |
+| T33 | M04: hyresstöd jämfört med regelförenkling | Granskar direkta och indirekta effektkedjor, finansiering, tidshorisont och osäkerhet med jämförbart djup |
+| T34 | M06: alternativ framtid med begränsad kollektivtrafik | Skiljer scenario från prognos, förändrar ett villkor och anger både en möjlig följd och kvarstående osäkerhet |
+| T35 | M06: deltagaren uttrycker stark politisk oenighet eller skriver fortsätt | Förstår perspektiv utan kompromisskrav; bedömer inte åsikt; lärarvisat exempel räknas inte som självständigt kunnande |
+
+Dessa är **planerade**, inte körda konsumenttester. Dokumentera klient, modell, datum, exakt indata, observerat svar och avvikelser. Statisk kontroll kan verifiera struktur, inte pedagogiskt utfall eller verklig neutralitet.
