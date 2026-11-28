@@ -24,3 +24,9 @@ status: draft
 | Riskdelning | Hur osäkra och stora kostnader fördelas mellan flera | Att risk eller kostnader försvinner |
 | Marknadsinflytande | Påverkan genom efterfrågan, avtal och möjlighet att välja eller byta | Lika politiskt röstvärde |
 | Brukarinflytande | Möjlighet att påverka tjänsten som mottagare | Enbart egen betalning eller val mellan företag |
+| Politisk dimension | Avgränsad fråga eller värdeskala, exempelvis ekonomisk organisering eller maktfördelning | Fullständig beskrivning av en person |
+| Samsyn | Delade utgångspunkter eller bedömningar i en specificerad fråga | Enighet i alla frågor eller krav på kompromiss |
+| Politisk etikett | Förenklad benämning på tradition eller tillhörighet | Säkert facit för alla individuella uppfattningar |
+| Intellektuell öppenhet | Vilja att pröva alternativa tolkningar och egna antaganden | Att godta alla påståenden som lika väl underbyggda |
+| Framsyn | Utforskning av alternativa möjliga framtider och deras villkor | Säker prognos eller förutsägelse |
+| Första, andra, tredje ordningens effekt | Analys av direkta förändringar, anpassningar och vidare följder | Fasta kalenderperioder eller en automatisk rangordning |
